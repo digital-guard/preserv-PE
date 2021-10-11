@@ -4,7 +4,7 @@
 ##
 
 thisTplFile     = {{thisTplFile_root}}/src/maketemplates/make_{{schemaId_template}}.mustache.mk
-country         = BR
+country         = PE
 baseSrc         = /opt/gits/_dg
 
 srcPy           = $(baseSrc)/preserv/src/run_mustache.py
