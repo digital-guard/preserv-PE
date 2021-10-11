@@ -23,12 +23,13 @@ layers:
     sql_select: ['gid', 'usuario', 'geom']
     orig_filename: Ubicaciones/Inscripciones
 
-  cadgeoaddress:
-    subtype: full
+  address:
+    subtype: cmpl
     method: ogr2ogr
     p: 2a
     file: 2
     sql_select: ['CLANDES', 'PROVINCIA', 'DISTRITO', 'TIPURB', 'URB', 'TIPCAL', 'CALLE AS via_name', 'PRENRO AS house_number']
     orig_filename: Padron de Direcciones Cusco
     orig_ext: .xlsx
+    method_opts: --config OGR_XLSX_HEADERS FORCE
     # JOIN CLANDES == usuario

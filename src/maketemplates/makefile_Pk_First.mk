@@ -1,6 +1,6 @@
 # grep em config do yaml, removendo espaços iniciais ou finais e eventuais comentários iniciados com '#'
 mkme_input        = ./make_conf.yaml
-country           = BR
+country           = PE
 baseSrc           = /opt/gits/_dg
 
 srcPy             = $(baseSrc)/preserv/src/run_mustache.py
