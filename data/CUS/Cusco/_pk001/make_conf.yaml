@@ -3,6 +3,7 @@ pkversion: "001"
 schemaId_input:    ref027a
 schemaId_template: ref027a
 srid: 32719
+
 files:
   -
     p:    1
@@ -16,20 +17,22 @@ files:
 layers:
 
   geoaddress:
-    subtype: none
+    subtype: ext
     method: shp2sql
     p: 1a
     file: 1
     sql_select: ['gid', 'usuario', 'geom']
     orig_filename: Ubicaciones/Inscripciones
+    join_column: 'usuario'
 
   address:
     subtype: cmpl
-    method: ogr2ogr
+    method: csv2sql
     p: 2a
     file: 2
-    sql_select: ['CLANDES', 'PROVINCIA', 'DISTRITO', 'TIPURB', 'URB', 'TIPCAL', 'CALLE AS via_name', 'PRENRO AS house_number']
+    sql_select: ['\"INSCRINRO\"', '\"PROVINCIA\"', '\"DISTRITO\"', '\"TIPURB\"', '\"URB\"', '\"TIPCAL\"', '\"CALLE\" AS via_name', '\"PRENRO\" AS house_number']
     orig_filename: Padron de Direcciones Cusco
     orig_ext: .xlsx
-    method_opts: --config OGR_XLSX_HEADERS FORCE
-    # JOIN CLANDES == usuario
+    method_opts: -i
+    join_column: '\"INSCRINRO\"'
+    # JOIN INSCRINRO == usuario
