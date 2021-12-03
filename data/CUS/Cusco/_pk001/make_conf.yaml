@@ -1,4 +1,4 @@
-pkid:      01
+pkid:      1
 pkversion: 001
 schemaId_input:    ref027a
 schemaId_template: ref027a
@@ -30,9 +30,9 @@ layers:
     method: csv2sql
     p: 2a
     file: 2
-    sql_select: ['\"INSCRINRO\"', '\"PROVINCIA\"', '\"DISTRITO\"', '\"TIPURB\"', '\"URB\"', '\"TIPCAL\"', '\"CALLE\" AS via_name', '\"PRENRO\" AS house_number']
+    sql_select: ['"INSCRINRO"', '"PROVINCIA"', '"DISTRITO"', '"TIPURB"', '"URB"', '"TIPCAL"', '"CALLE" AS via_name', '"PRENRO" AS house_number']
     orig_filename: Padron de Direcciones Cusco
     orig_ext: .xlsx
     method_opts: -i
-    join_column: '\"INSCRINRO\"'
+    join_column: 'INSCRINRO'
     # JOIN INSCRINRO == usuario
