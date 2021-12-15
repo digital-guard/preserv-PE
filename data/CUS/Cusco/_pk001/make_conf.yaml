@@ -32,7 +32,6 @@ layers:
     file: 2
     sql_select: ['"INSCRINRO"', '"PROVINCIA"', '"DISTRITO"', '"TIPURB"', '"URB"', '"TIPCAL"', '"CALLE" AS via_name', '"PRENRO" AS house_number']
     orig_filename: Padron de Direcciones Cusco
-    orig_ext: .xlsx
-    method_opts: -i
+    codec: XLSX
     join_column: 'INSCRINRO'
     # JOIN INSCRINRO == usuario
