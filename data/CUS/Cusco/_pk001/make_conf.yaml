@@ -19,7 +19,6 @@ layers:
   geoaddress:
     subtype: ext
     method: shp2sql
-    p: 1a
     file: 1
     sql_select: ['gid', 'usuario', 'geom']
     orig_filename: Ubicaciones/Inscripciones
@@ -28,7 +27,6 @@ layers:
   address:
     subtype: cmpl
     method: csv2sql
-    p: 2a
     file: 2
     sql_select: ['"INSCRINRO"', '"PROVINCIA"', '"DISTRITO"', '"TIPURB"', '"URB"', '"TIPCAL"', '"CALLE" AS via_name', '"PRENRO" AS house_number']
     orig_filename: Padron de Direcciones Cusco
