@@ -1,0 +1,31 @@
+pack_id: 2.1
+pkversion: 001
+schemaId_input:    ref027a
+schemaId_template: ref027a
+codec:descr_encode: srid=4326
+
+files:
+    -
+        p:    1
+        file: af784105ab366faa59af78747e9ba49a688b1bf044e530b0013b232fe5318e73.pbf
+        name: Dados OpenStreetMap
+
+license_evidences:
+    definition: [ODbL-1.0, odbl, http://www.opendefinition.org/licenses/odc-odbl]
+    uri_evidency: https://web.archive.org/web/20220130114324/https://opendatacommons.org/licenses/odbl/
+
+layers:
+  geoaddress:
+    subtype: full
+    method: osm2sql
+    file: 1
+    orig_filename: peru-latest.osm
+  via:
+    subtype: full
+    method: osm2sql
+    file: 1
+    orig_filename: peru-latest.osm
+
+openstreetmap:
+    file: 1
+    method: none
