@@ -5,14 +5,14 @@ schemaId_template: ref027a
 codec:descr_encode: srid=32719
 
 files:
-  -
-    p:    1
-    file: 43484294f9190a3a050e097e0c106f8da16169a3e1dff9d00ea04aae6e9cbe1a.zip
-    name: Inscripciones
-  -
-    p:    2
-    file: 9b76c8f77f5e08b9bae2d839540a6d02d640c62bf422efd3a9f629fdd247b97e.zip
-    name: Direcciones
+- file: 43484294f9190a3a050e097e0c106f8da16169a3e1dff9d00ea04aae6e9cbe1a.zip
+  name: Inscripciones
+  p: 1
+  size: 323770562
+- file: 9b76c8f77f5e08b9bae2d839540a6d02d640c62bf422efd3a9f629fdd247b97e.zip
+  name: Direcciones
+  p: 2
+  size: 4348258
 
 layers:
 
