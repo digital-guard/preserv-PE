@@ -1,0 +1,11 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+1971662,604,2202,Bellavista,SAM,,2084689,bellavista,PE-SAM-Bellavista,,
+1971663,604,2203,"El Dorado",SAM,,2084675,el.dorado,PE-SAM-ElDorado,,
+1971664,604,2204,Huallaga,SAM,,731515,huallaga,PE-SAM-Huallaga,,
+1971665,604,2205,Lamas,SAM,,2281473,lamas,PE-SAM-Lamas,,
+1971666,604,2206,"Mariscal Cáceres",SAM,,1947944,mariscal.caceres,PE-SAM-MariscalCaceres,,
+1971667,604,2201,Moyobamba,SAM,,1948150,moyobamba,PE-SAM-Moyobamba,,
+1971668,604,2207,Picota,SAM,,590394,picota,PE-SAM-Picota,,
+1971669,604,2208,Rioja,SAM,,2084648,rioja,PE-SAM-Rioja,,
+1971670,604,2209,"San Martín",SAM,,588491,san.martin,PE-SAM-SanMartin,,
+1971671,604,2210,Tocache,SAM,,2084659,tocache,PE-SAM-Tocache,,

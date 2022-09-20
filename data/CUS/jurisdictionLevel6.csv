@@ -1,2 +1,14 @@
-osm_id,parent_id,jurisd_base_id,jurisd_local_id,name,name_en,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,phone_prefix,info
-1923702,1923695,604,0801,Cusco,Cusco,CUS,,1132101,cusco,PE-CUS-Cusco,0484,
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+1923696,604,802,Acomayo,CUS,,1920602,acomayo,PE-CUS-Acomayo,,
+1923697,604,803,Anta,CUS,,1920482,anta,PE-CUS-Anta,,
+1923698,604,804,Calca,CUS,,1948019,calca,PE-CUS-Calca,,
+1923699,604,805,Canas,CUS,,1920500,canas,PE-CUS-Canas,,
+1923700,604,806,Canchis,CUS,,951287,canchis,PE-CUS-Canchis,,
+1923701,604,807,Chumbivilcas,CUS,,584864,chumbivilcas,PE-CUS-Chumbivilcas,,
+1923702,604,801,Cusco,CUS,,1132101,cusco,PE-CUS-Cusco,484,"{""area_sr"": 0.0442, ""area_km2"": 529, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 23, ""side_estim_deg"": 0.2102, ""elongation_factor"": 1.91}"
+1923703,604,808,Espinar,CUS,,1947973,espinar,PE-CUS-Espinar,,
+1923704,604,809,"La Convención",CUS,,1343276,la.convencion,PE-CUS-LaConvencion,,
+1923705,604,810,Paruro,CUS,,1920613,paruro,PE-CUS-Paruro,,
+1923706,604,811,Paucartambo,CUS,,746434,paucartambo,PE-CUS-Paucartambo,,
+1923707,604,812,Quispicanchi,CUS,,1920520,quispicanchi,PE-CUS-Quispicanchi,,
+1923708,604,813,Urubamba,CUS,,1771879,urubamba,PE-CUS-Urubamba,,

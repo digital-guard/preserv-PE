@@ -1,0 +1,10 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+1944660,604,1502,Barranca,LIM,,1422596,barranca,PE-LIM-Barranca,,
+1944661,604,1503,Cajatambo,LIM,,1422587,cajatambo,PE-LIM-Cajatambo,,
+1944663,604,1504,Canta,LIM,,1422611,canta,PE-LIM-Canta,,
+1944664,604,1505,Cañete,LIM,,1431156,canete,PE-LIM-Canete,,
+1944667,604,1506,Huaral,LIM,,1422606,huaral,PE-LIM-Huaral,,
+1944668,604,1507,Huarochirí,LIM,,1367991,huarochiri,PE-LIM-Huarochiri,,
+1944669,604,1508,Huaura,LIM,,1433001,huaura,PE-LIM-Huaura,,
+1944672,604,1509,Oyón,LIM,,1422624,oyon,PE-LIM-Oyon,,
+1944673,604,1510,Yauyos,LIM,,1422601,yauyos,PE-LIM-Yauyos,,

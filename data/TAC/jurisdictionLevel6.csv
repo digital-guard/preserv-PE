@@ -1,0 +1,5 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+1874308,604,2302,Candarave,TAC,,1944299,candarave,PE-TAC-Candarave,,
+1874309,604,2303,"Jorge Basadre",TAC,,589047,jorge.basadre,PE-TAC-JorgeBasadre,,
+1874310,604,2301,Tacna,TAC,,1355960,tacna,PE-TAC-Tacna,,
+1874311,604,2304,Tarata,TAC,,1410654,tarata,PE-TAC-Tarata,,

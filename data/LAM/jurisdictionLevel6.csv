@@ -1,0 +1,4 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+1969723,604,1401,Chiclayo,LAM,,546559,chiclayo,PE-LAM-Chiclayo,,
+1969724,604,1402,Ferreñafe,LAM,,1948067,ferrenafe,PE-LAM-Ferrenafe,,
+1969725,604,1403,Lambayeque,LAM,,632826,lambayeque,PE-LAM-Lambayeque,,

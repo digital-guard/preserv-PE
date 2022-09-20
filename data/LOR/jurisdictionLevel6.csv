@@ -1,0 +1,9 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+1994078,604,1602,"Alto Amazonas",LOR,,1920572,alto.amazonas,PE-LOR-AltoAmazonas,,
+1994079,604,1607,"Datem del Marañón",LOR,,2017690,datem.maranon,PE-LOR-DatemMaranon,,
+1994080,604,1603,Loreto,LOR,,1995145,loreto,PE-LOR-Loreto,,
+1994081,604,1604,"Mariscal Ramón Castilla",LOR,,1920922,mariscal.ramon.castilla,PE-LOR-MariscalRamonCastilla,,
+1994082,604,1601,Maynas,LOR,,1779677,maynas,PE-LOR-Maynas,,
+7918696,604,1608,Putumayo,LOR,,16942171,putumayo,PE-LOR-Putumayo,,
+1994083,604,1605,Requena,LOR,,1944325,requena,PE-LOR-Requena,,
+1994084,604,1606,Ucayali,LOR,,2013418,ucayali,PE-LOR-Ucayali,,

@@ -1,0 +1,10 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+1948259,604,1203,Chanchamayo,JUN,,765311,chanchamayo,PE-JUN-Chanchamayo,,
+1948260,604,1209,Chupaca,JUN,,1777631,chupaca,PE-JUN-Chupaca,,
+1948261,604,1202,Concepción,JUN,,1991124,concepcion,PE-JUN-Concepcion,,
+1948262,604,1201,Huancayo,JUN,,1777621,huancayo,PE-JUN-Huancayo,,
+1948263,604,1204,Jauja,JUN,,922867,jauja,PE-JUN-Jauja,,
+1948264,604,1205,Junín,JUN,,644721,junin,PE-JUN-Junin,,
+1948265,604,1206,Satipo,JUN,,1335384,satipo,PE-JUN-Satipo,,
+1948266,604,1207,Tarma,JUN,,946269,tarma,PE-JUN-Tarma,,
+1948267,604,1208,Yauli,JUN,,1342828,yauli,PE-JUN-Yauli,,

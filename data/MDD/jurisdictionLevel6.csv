@@ -1,0 +1,4 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+1891288,604,1702,Manu,MDD,,2320717,manu,PE-MDD-Manu,,
+1891289,604,1703,Tahuamanu,MDD,,945636,tahuamanu,PE-MDD-Tahuamanu,,
+1891290,604,1701,Tambopata,MDD,,1999122,tambopata,PE-MDD-Tambopata,,

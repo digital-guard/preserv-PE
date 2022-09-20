@@ -1,0 +1,12 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+1954494,604,1002,Ambo,HUC,,980098,ambo,PE-HUC-Ambo,,
+1954495,604,1003,"Dos de Mayo",HUC,,2088810,dos.mayo,PE-HUC-DosMayo,,
+1954496,604,1004,Huacaybamba,HUC,,2084668,huacaybamba,PE-HUC-Huacaybamba,,
+1954497,604,1005,Huamalíes,HUC,,1819840,huamalies,PE-HUC-Huamalies,,
+1954498,604,1001,Huánuco,HUC,,2100624,huanuco,PE-HUC-Huanuco,,
+1954499,604,1010,Lauricocha,HUC,,188098,lauricocha,PE-HUC-Lauricocha,,
+1954500,604,1006,"Leoncio Prado",HUC,,1468138,leoncio.prado,PE-HUC-LeoncioPrado,,
+1954501,604,1007,Marañón,HUC,,764487,maranon,PE-HUC-Maranon,,
+1954502,604,1008,Pachitea,HUC,,2084641,pachitea,PE-HUC-Pachitea,,
+1954503,604,1009,"Puerto Inca",HUC,,1944276,puerto.inca,PE-HUC-PuertoInca,,
+1954504,604,1011,Yarowilca,HUC,,2088849,yarowilca,PE-HUC-Yarowilca,,

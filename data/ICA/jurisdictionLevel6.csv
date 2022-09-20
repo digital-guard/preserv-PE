@@ -1,0 +1,6 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+1899014,604,1102,Chincha,ICA,,1325771,chincha,PE-ICA-Chincha,,
+1899015,604,1101,Ica,ICA,,2084696,ica,PE-ICA-Ica,,
+1899016,604,1103,Nasca,ICA,,938322,nasca,PE-ICA-Nasca,,
+1899017,604,1104,Palpa,ICA,,783136,palpa,PE-ICA-Palpa,,
+1899018,604,1105,Pisco,ICA,,1366050,pisco,PE-ICA-Pisco,,

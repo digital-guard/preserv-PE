@@ -1,0 +1,5 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+1921998,604,2502,Atalaya,UCA,,1920509,atalaya,PE-UCA-Atalaya,,
+1921999,604,2501,"Coronel Portillo",UCA,,579906,coronel.portillo,PE-UCA-CoronelPortillo,,
+1922000,604,2503,"Padre Abad",UCA,,548556,padre.abad,PE-UCA-PadreAbad,,
+1922001,604,2504,Purús,UCA,,672921,purus,PE-UCA-Purus,,

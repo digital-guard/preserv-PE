@@ -1,0 +1,4 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+1948453,604,1902,"Daniel Alcides Carrión",PAS,,1944288,daniel.alcides.carrion,PE-PAS-DanielAlcidesCarrion,,
+1948454,604,1903,Oxapampa,PAS,,960169,oxapampa,PE-PAS-Oxapampa,,
+1948455,604,1901,Pasco,PAS,,976034,pasco,PE-PAS-Pasco,,

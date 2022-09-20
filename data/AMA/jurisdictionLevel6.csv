@@ -1,0 +1,8 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+1973463,604,102,Bagua,AMA,,1366082,bagua,PE-AMA-Bagua,,
+1973464,604,103,Bongará,AMA,,1342814,bongara,PE-AMA-Bongara,,
+1973468,604,101,Chachapoyas,AMA,,997406,chachapoyas,PE-AMA-Chachapoyas,,
+1973469,604,104,Condorcanqui,AMA,,1288434,condorcanqui,PE-AMA-Condorcanqui,,
+1973470,604,105,Luya,AMA,,268277,luya,PE-AMA-Luya,,
+1973471,604,106,"Rodríguez de Mendoza",AMA,,1366038,rodriguez.mendoza,PE-AMA-RodriguezMendoza,,
+1973472,604,107,Utcubamba,AMA,,941183,utcubamba,PE-AMA-Utcubamba,,

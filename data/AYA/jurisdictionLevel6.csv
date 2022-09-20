@@ -1,0 +1,12 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+1930902,604,502,Cangallo,AYA,,1814190,cangallo,PE-AYA-Cangallo,,
+1930903,604,501,Huamanga,AYA,,1784857,huamanga,PE-AYA-Huamanga,,
+1930904,604,503,Huancasancos,AYA,,1808513,huancasancos,PE-AYA-Huancasancos,,
+1930905,604,504,Huanta,AYA,,930214,huanta,PE-AYA-Huanta,,
+1930906,604,505,"La Mar",AYA,,514494,la.mar,PE-AYA-LaMar,,
+1930908,604,506,Lucanas,AYA,,1814203,lucanas,PE-AYA-Lucanas,,
+1930909,604,507,Parinacochas,AYA,,549969,parinacochas,PE-AYA-Parinacochas,,
+1930910,604,508,"Páucar del Sara Sara",AYA,,1806437,paucar.sara.sara,PE-AYA-PaucarSaraSara,,
+1930911,604,509,Sucre,AYA,,1814180,sucre,PE-AYA-Sucre,,
+1930913,604,511,"Vilcas Huamán",AYA,,537708,vilcas.huaman,PE-AYA-VilcasHuaman,,
+1930912,604,510,"Víctor Fajardo",AYA,,1947116,victor.fajardo,PE-AYA-VictorFajardo,,

@@ -1,0 +1,4 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+1875890,604,1802,"General Sánchez Cerro",MOQ,,1947893,general.sanchez.cerro,PE-MOQ-GeneralSanchezCerro,,
+1875891,604,1803,Ilo,MOQ,,1944257,ilo,PE-MOQ-Ilo,,
+1875892,604,1801,"Mariscal Nieto",MOQ,,1944431,mariscal.nieto,PE-MOQ-MariscalNieto,,
