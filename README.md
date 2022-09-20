@@ -1,7 +1,7 @@
 # preserv-PE
 [Preservación digital](https://en.wikipedia.org/wiki/Digital_preservation) de las principales fuentes de la **base de datos AddressForAll-Perú**, mantenida por el [Instituto AddressForAll](http://addressforall.org/).
 
-A Perú se le asignó: en el contexto ISO&nbsp;3166&#8209;2 el geocódigo **PE** y el número **604**; en Wikidata el identificador [Q419](http://wikidata.org/entity/Q419); en OpenStreetMap el identificador de [*relación* 288247](http://osm.org/relation/288247).
+A Perú se le asignó: en el contexto [ISO&nbsp;3166](https://en.wikipedia.org/wiki/ISO_3166) el geocódigo [**PE**](https://en.wikipedia.org/wiki/ISO_3166-2:PE) y el número [**604**](https://en.wikipedia.org/wiki/ISO_3166-1_numeric); en [Wikidata](http://Wikidata.org) el identificador [Q419](http://wikidata.org/entity/Q419); en OpenStreetMap el identificador de [*relación* 288247](http://osm.org/relation/288247).
 
 ## Organización territorial
 El territorio nacional y sus subdivisiones representam **jurisdiciones**:
