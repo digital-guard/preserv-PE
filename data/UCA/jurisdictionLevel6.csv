@@ -1,5 +1,5 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1921998,604,2502,Atalaya,UCA,,1920509,atalaya,PE-UCA-Atalaya,,
-1921999,604,2501,"Coronel Portillo",UCA,,579906,coronel.portillo,PE-UCA-CoronelPortillo,,
-1922000,604,2503,"Padre Abad",UCA,,548556,padre.abad,PE-UCA-PadreAbad,,
-1922001,604,2504,Purús,UCA,,672921,purus,PE-UCA-Purus,,
+1921998,604,2502,Atalaya,UCA,,1920509,atalaya,PE-UCA-Atalaya,,"{""area_sr"": 3.22321, ""area_km2"": 39040, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 197.6, ""side_estim_deg"": 1.7953, ""elongation_factor"": 2.45}"
+1921999,604,2501,"Coronel Portillo",UCA,,579906,coronel.portillo,PE-UCA-CoronelPortillo,,"{""area_sr"": 3.1564, ""area_km2"": 38418, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 196, ""side_estim_deg"": 1.7766, ""elongation_factor"": 2.46}"
+1922000,604,2503,"Padre Abad",UCA,,548556,padre.abad,PE-UCA-PadreAbad,,"{""area_sr"": 0.77638, ""area_km2"": 9447, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 97.2, ""side_estim_deg"": 0.8811, ""elongation_factor"": 1.51}"
+1922001,604,2504,Purús,UCA,,672921,purus,PE-UCA-Purus,,"{""area_sr"": 1.52054, ""area_km2"": 18418, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 135.7, ""side_estim_deg"": 1.2331, ""elongation_factor"": 2.08}"

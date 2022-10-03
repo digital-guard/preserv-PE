@@ -1,12 +1,12 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1930902,604,502,Cangallo,AYA,,1814190,cangallo,PE-AYA-Cangallo,,
-1930903,604,501,Huamanga,AYA,,1784857,huamanga,PE-AYA-Huamanga,,
-1930904,604,503,Huancasancos,AYA,,1808513,huancasancos,PE-AYA-Huancasancos,,
-1930905,604,504,Huanta,AYA,,930214,huanta,PE-AYA-Huanta,,
-1930906,604,505,"La Mar",AYA,,514494,la.mar,PE-AYA-LaMar,,
-1930908,604,506,Lucanas,AYA,,1814203,lucanas,PE-AYA-Lucanas,,
-1930909,604,507,Parinacochas,AYA,,549969,parinacochas,PE-AYA-Parinacochas,,
-1930910,604,508,"Páucar del Sara Sara",AYA,,1806437,paucar.sara.sara,PE-AYA-PaucarSaraSara,,
-1930911,604,509,Sucre,AYA,,1814180,sucre,PE-AYA-Sucre,,
-1930913,604,511,"Vilcas Huamán",AYA,,537708,vilcas.huaman,PE-AYA-VilcasHuaman,,
-1930912,604,510,"Víctor Fajardo",AYA,,1947116,victor.fajardo,PE-AYA-VictorFajardo,,
+1930902,604,502,Cangallo,AYA,,1814190,cangallo,PE-AYA-Cangallo,,"{""area_sr"": 0.15619, ""area_km2"": 1871, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 43.3, ""side_estim_deg"": 0.3952, ""elongation_factor"": 2.44}"
+1930903,604,501,Huamanga,AYA,,1784857,huamanga,PE-AYA-Huamanga,,"{""area_sr"": 0.24651, ""area_km2"": 2955, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 54.4, ""side_estim_deg"": 0.4965, ""elongation_factor"": 2.28}"
+1930904,604,503,Huancasancos,AYA,,1808513,huancasancos,PE-AYA-Huancasancos,,"{""area_sr"": 0.23747, ""area_km2"": 2839, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 53.3, ""side_estim_deg"": 0.4873, ""elongation_factor"": 1.55}"
+1930905,604,504,Huanta,AYA,,930214,huanta,PE-AYA-Huanta,,"{""area_sr"": 0.32201, ""area_km2"": 3871, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 62.2, ""side_estim_deg"": 0.5675, ""elongation_factor"": 2.32}"
+1930906,604,505,"La Mar",AYA,,514494,la.mar,PE-AYA-LaMar,,"{""area_sr"": 0.35829, ""area_km2"": 4299, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 65.6, ""side_estim_deg"": 0.5986, ""elongation_factor"": 2.46}"
+1930908,604,506,Lucanas,AYA,,1814203,lucanas,PE-AYA-Lucanas,,"{""area_sr"": 1.21423, ""area_km2"": 14474, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 120.3, ""side_estim_deg"": 1.1019, ""elongation_factor"": 2.23}"
+1930909,604,507,Parinacochas,AYA,,549969,parinacochas,PE-AYA-Parinacochas,,"{""area_sr"": 0.49938, ""area_km2"": 5942, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 77.1, ""side_estim_deg"": 0.7067, ""elongation_factor"": 3.27}"
+1930910,604,508,"Páucar del Sara Sara",AYA,,1806437,paucar.sara.sara,PE-AYA-PaucarSaraSara,,"{""area_sr"": 0.17514, ""area_km2"": 2083, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 45.6, ""side_estim_deg"": 0.4185, ""elongation_factor"": 1.82}"
+1930911,604,509,Sucre,AYA,,1814180,sucre,PE-AYA-Sucre,,"{""area_sr"": 0.14941, ""area_km2"": 1785, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 42.2, ""side_estim_deg"": 0.3865, ""elongation_factor"": 1.89}"
+1930913,604,511,"Vilcas Huamán",AYA,,537708,vilcas.huaman,PE-AYA-VilcasHuaman,,"{""area_sr"": 0.10099, ""area_km2"": 1209, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 34.8, ""side_estim_deg"": 0.3178, ""elongation_factor"": 1.98}"
+1930912,604,510,"Víctor Fajardo",AYA,,1947116,victor.fajardo,PE-AYA-VictorFajardo,,"{""area_sr"": 0.18931, ""area_km2"": 2265, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 47.6, ""side_estim_deg"": 0.4351, ""elongation_factor"": 2.97}"

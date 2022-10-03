@@ -1,6 +1,6 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1899014,604,1102,Chincha,ICA,,1325771,chincha,PE-ICA-Chincha,,
-1899015,604,1101,Ica,ICA,,2084696,ica,PE-ICA-Ica,,
-1899016,604,1103,Nasca,ICA,,938322,nasca,PE-ICA-Nasca,,
-1899017,604,1104,Palpa,ICA,,783136,palpa,PE-ICA-Palpa,,
-1899018,604,1105,Pisco,ICA,,1366050,pisco,PE-ICA-Pisco,,
+1899014,604,1102,Chincha,ICA,,1325771,chincha,PE-ICA-Chincha,,"{""area_sr"": 0.24305, ""area_km2"": 2913, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 54, ""side_estim_deg"": 0.493, ""elongation_factor"": 1.89}"
+1899015,604,1101,Ica,ICA,,2084696,ica,PE-ICA-Ica,,"{""area_sr"": 0.65552, ""area_km2"": 7825, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 88.5, ""side_estim_deg"": 0.8096, ""elongation_factor"": 1.52}"
+1899016,604,1103,Nasca,ICA,,938322,nasca,PE-ICA-Nasca,,"{""area_sr"": 0.43615, ""area_km2"": 5192, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 72.1, ""side_estim_deg"": 0.6604, ""elongation_factor"": 2}"
+1899017,604,1104,Palpa,ICA,,783136,palpa,PE-ICA-Palpa,,"{""area_sr"": 0.10206, ""area_km2"": 1218, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 34.9, ""side_estim_deg"": 0.3195, ""elongation_factor"": 2.43}"
+1899018,604,1105,Pisco,ICA,,1366050,pisco,PE-ICA-Pisco,,"{""area_sr"": 0.33061, ""area_km2"": 3955, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 62.9, ""side_estim_deg"": 0.575, ""elongation_factor"": 3.03}"

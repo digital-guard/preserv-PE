@@ -1,4 +1,4 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1875890,604,1802,"General Sánchez Cerro",MOQ,,1947893,general.sanchez.cerro,PE-MOQ-GeneralSanchezCerro,,
-1875891,604,1803,Ilo,MOQ,,1944257,ilo,PE-MOQ-Ilo,,
-1875892,604,1801,"Mariscal Nieto",MOQ,,1944431,mariscal.nieto,PE-MOQ-MariscalNieto,,
+1875890,604,1802,"General Sánchez Cerro",MOQ,,1947893,general.sanchez.cerro,PE-MOQ-GeneralSanchezCerro,,"{""area_sr"": 0.48519, ""area_km2"": 5734, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 75.7, ""side_estim_deg"": 0.6966, ""elongation_factor"": 2.42}"
+1875891,604,1803,Ilo,MOQ,,1944257,ilo,PE-MOQ-Ilo,,"{""area_sr"": 0.11572, ""area_km2"": 1360, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 36.9, ""side_estim_deg"": 0.3402, ""elongation_factor"": 2.48}"
+1875892,604,1801,"Mariscal Nieto",MOQ,,1944431,mariscal.nieto,PE-MOQ-MariscalNieto,,"{""area_sr"": 0.73406, ""area_km2"": 8650, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 93, ""side_estim_deg"": 0.8568, ""elongation_factor"": 2.31}"

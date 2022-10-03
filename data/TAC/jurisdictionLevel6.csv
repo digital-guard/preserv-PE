@@ -1,5 +1,5 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1874308,604,2302,Candarave,TAC,,1944299,candarave,PE-TAC-Candarave,,
-1874309,604,2303,"Jorge Basadre",TAC,,589047,jorge.basadre,PE-TAC-JorgeBasadre,,
-1874310,604,2301,Tacna,TAC,,1355960,tacna,PE-TAC-Tacna,,
-1874311,604,2304,Tarata,TAC,,1410654,tarata,PE-TAC-Tarata,,
+1874308,604,2302,Candarave,TAC,,1944299,candarave,PE-TAC-Candarave,,"{""area_sr"": 0.19606, ""area_km2"": 2309, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 48.1, ""side_estim_deg"": 0.4428, ""elongation_factor"": 1.83}"
+1874309,604,2303,"Jorge Basadre",TAC,,589047,jorge.basadre,PE-TAC-JorgeBasadre,,"{""area_sr"": 0.2323, ""area_km2"": 2729, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 52.2, ""side_estim_deg"": 0.482, ""elongation_factor"": 2.02}"
+1874310,604,2301,Tacna,TAC,,1355960,tacna,PE-TAC-Tacna,,"{""area_sr"": 0.69772, ""area_km2"": 8183, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 90.5, ""side_estim_deg"": 0.8353, ""elongation_factor"": 1.93}"
+1874311,604,2304,Tarata,TAC,,1410654,tarata,PE-TAC-Tarata,,"{""area_sr"": 0.23415, ""area_km2"": 2753, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 52.5, ""side_estim_deg"": 0.4839, ""elongation_factor"": 2.48}"

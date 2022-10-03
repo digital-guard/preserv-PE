@@ -1,27 +1,27 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1973462,604,1,Amazonas,PE,AMA,201162,amazonas,PE-AMA,,
-1953170,604,2,Ancash,PE,ANC,205089,ancash,PE-ANC,,
-1929522,604,3,Apurímac,PE,APU,208185,apurimac,PE-APU,,
-1879287,604,4,Arequipa,PE,ARE,205068,arequipa,PE-ARE,,
-1930901,604,5,Ayacucho,PE,AYA,205112,ayacucho,PE-AYA,,
-1896111,604,6,Cajamarca,PE,CAJ,205078,cajamarca,PE-CAJ,,
-1944657,604,7,Callao,PE,CAL,2634400,callao,PE-CAL,,
-1923695,604,8,Cusco,PE,CUS,205057,cusco,PE-CUS,484,
-1933551,604,9,Huancavelica,PE,HUV,505220,huancavelica,PE-HUV,,
-1954493,604,10,Huánuco,PE,HUC,215221,huanuco,PE-HUC,62,
-1899013,604,11,Ica,PE,ICA,208186,ica,PE-ICA,,
-1948258,604,12,Junín,PE,JUN,207973,junin,PE-JUN,,
-1967959,604,13,"La Libertad",PE,LAL,205126,la.libertad,PE-LAL,,
-1969722,604,14,Lambayeque,PE,LAM,210061,lambayeque,PE-LAM,,
-1944659,604,15,Lima,PE,LIM,211795,lima,PE-LIM,,
-1994077,604,16,Loreto,PE,LOR,200938,loreto,PE-LOR,,
-1891287,604,17,"Madre de Dios",PE,MDD,210896,madre.dios,PE-MDD,,
-1875889,604,18,Moquegua,PE,MOQ,208182,moquegua,PE-MOQ,53,
-1948452,604,19,Pasco,PE,PAS,211208,pasco,PE-PAS,63,
-1986151,604,20,Piura,PE,PIU,208183,piura,PE-PIU,,
+1973462,604,1,Amazonas,PE,AMA,201162,amazonas,PE-AMA,,"{""area_sr"": 3.19813, ""area_km2"": 39210, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 198, ""side_estim_deg"": 1.7883, ""elongation_factor"": 2.6}"
+1953170,604,2,Ancash,PE,ANC,205089,ancash,PE-ANC,,"{""area_sr"": 2.95706, ""area_km2"": 35920, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 189.5, ""side_estim_deg"": 1.7196, ""elongation_factor"": 2.07}"
+1929522,604,3,Apurímac,PE,APU,208185,apurimac,PE-APU,,"{""area_sr"": 1.76592, ""area_km2"": 21105, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 145.3, ""side_estim_deg"": 1.3289, ""elongation_factor"": 1.83}"
+1879287,604,4,Arequipa,PE,ARE,205068,arequipa,PE-ARE,,"{""area_sr"": 5.33456, ""area_km2"": 63229, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 251.5, ""side_estim_deg"": 2.3097, ""elongation_factor"": 2.43}"
+1930901,604,5,Ayacucho,PE,AYA,205112,ayacucho,PE-AYA,,"{""area_sr"": 3.64894, ""area_km2"": 43594, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 208.8, ""side_estim_deg"": 1.9102, ""elongation_factor"": 2.98}"
+1896111,604,6,Cajamarca,PE,CAJ,205078,cajamarca,PE-CAJ,,"{""area_sr"": 2.69201, ""area_km2"": 32930, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 181.5, ""side_estim_deg"": 1.6407, ""elongation_factor"": 2.6}"
+1944657,604,7,Callao,PE,CAL,2634400,callao,PE-CAL,,"{""area_sr"": 0.0134, ""area_km2"": 161, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 12.7, ""side_estim_deg"": 0.1157, ""elongation_factor"": 4.28}"
+1923695,604,8,Cusco,PE,CUS,205057,cusco,PE-CUS,484,"{""area_sr"": 6.00533, ""area_km2"": 72010, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 268.3, ""side_estim_deg"": 2.4506, ""elongation_factor"": 2.96}"
+1933551,604,9,Huancavelica,PE,HUV,505220,huancavelica,PE-HUV,,"{""area_sr"": 1.83989, ""area_km2"": 22079, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 148.6, ""side_estim_deg"": 1.3564, ""elongation_factor"": 2.34}"
+1954493,604,10,Huánuco,PE,HUC,215221,huanuco,PE-HUC,62,"{""area_sr"": 3.07447, ""area_km2"": 37346, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 193.3, ""side_estim_deg"": 1.7534, ""elongation_factor"": 2.74}"
+1899013,604,11,Ica,PE,ICA,208186,ica,PE-ICA,,"{""area_sr"": 1.7674, ""area_km2"": 21103, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 145.3, ""side_estim_deg"": 1.3294, ""elongation_factor"": 2.72}"
+1948258,604,12,Junín,PE,JUN,207973,junin,PE-JUN,,"{""area_sr"": 3.67082, ""area_km2"": 44294, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 210.5, ""side_estim_deg"": 1.9159, ""elongation_factor"": 2.37}"
+1967959,604,13,"La Libertad",PE,LAL,205126,la.libertad,PE-LAL,,"{""area_sr"": 2.07002, ""area_km2"": 25243, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 158.9, ""side_estim_deg"": 1.4388, ""elongation_factor"": 3.23}"
+1969722,604,14,Lambayeque,PE,LAM,210061,lambayeque,PE-LAM,,"{""area_sr"": 1.1649, ""area_km2"": 14253, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 119.4, ""side_estim_deg"": 1.0793, ""elongation_factor"": 2.1}"
+1944659,604,15,Lima,PE,LIM,211795,lima,PE-LIM,,"{""area_sr"": 2.90344, ""area_km2"": 35002, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 187.1, ""side_estim_deg"": 1.7039, ""elongation_factor"": 2.48}"
+1994077,604,16,Loreto,PE,LOR,200938,loreto,PE-LOR,,"{""area_sr"": 30.55325, ""area_km2"": 374977, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 612.4, ""side_estim_deg"": 5.5275, ""elongation_factor"": 2.62}"
+1891287,604,17,"Madre de Dios",PE,MDD,210896,madre.dios,PE-MDD,,"{""area_sr"": 7.02064, ""area_km2"": 84577, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 290.8, ""side_estim_deg"": 2.6496, ""elongation_factor"": 1.78}"
+1875889,604,18,Moquegua,PE,MOQ,208182,moquegua,PE-MOQ,53,"{""area_sr"": 1.33496, ""area_km2"": 15743, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 125.5, ""side_estim_deg"": 1.1554, ""elongation_factor"": 2.26}"
+1948452,604,19,Pasco,PE,PAS,211208,pasco,PE-PAS,63,"{""area_sr"": 1.97956, ""area_km2"": 23976, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 154.8, ""side_estim_deg"": 1.407, ""elongation_factor"": 2.63}"
+1986151,604,20,Piura,PE,PIU,208183,piura,PE-PIU,,"{""area_sr"": 2.91794, ""area_km2"": 35776, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 189.1, ""side_estim_deg"": 1.7082, ""elongation_factor"": 2.08}"
 1944670,604,579240,"Provincia de Lima",PE,LMA,579240,lma,PE-LMA,,
-1907899,604,21,Puno,PE,PUN,205104,puno,PE-PUN,,
-1971661,604,22,"San Martín",PE,SAM,211793,san.martin,PE-SAM,,
-1874307,604,23,Tacna,PE,TAC,207413,tacna,PE-TAC,,
-1986974,604,24,Tumbes,PE,TUM,209597,tumbes,PE-TUM,,
-1921996,604,25,Ucayali,PE,UCA,207424,ucayali,PE-UCA,,
+1907899,604,21,Puno,PE,PUN,205104,puno,PE-PUN,,"{""area_sr"": 5.68845, ""area_km2"": 67704, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 260.2, ""side_estim_deg"": 2.385, ""elongation_factor"": 3.16}"
+1971661,604,22,"San Martín",PE,SAM,211793,san.martin,PE-SAM,,"{""area_sr"": 4.17056, ""area_km2"": 50955, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 225.7, ""side_estim_deg"": 2.0422, ""elongation_factor"": 2.59}"
+1874307,604,23,Tacna,PE,TAC,207413,tacna,PE-TAC,,"{""area_sr"": 1.36022, ""area_km2"": 15975, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 126.4, ""side_estim_deg"": 1.1663, ""elongation_factor"": 1.64}"
+1986974,604,24,Tumbes,PE,TUM,209597,tumbes,PE-TUM,,"{""area_sr"": 0.3792, ""area_km2"": 4657, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 68.2, ""side_estim_deg"": 0.6158, ""elongation_factor"": 1.94}"
+1921996,604,25,Ucayali,PE,UCA,207424,ucayali,PE-UCA,,"{""area_sr"": 8.67654, ""area_km2"": 105322, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 324.5, ""side_estim_deg"": 2.9456, ""elongation_factor"": 3.03}"

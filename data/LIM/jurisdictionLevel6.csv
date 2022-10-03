@@ -1,10 +1,10 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1944660,604,1502,Barranca,LIM,,1422596,barranca,PE-LIM-Barranca,,
-1944661,604,1503,Cajatambo,LIM,,1422587,cajatambo,PE-LIM-Cajatambo,,
-1944663,604,1504,Canta,LIM,,1422611,canta,PE-LIM-Canta,,
-1944664,604,1505,Cañete,LIM,,1431156,canete,PE-LIM-Canete,,
-1944667,604,1506,Huaral,LIM,,1422606,huaral,PE-LIM-Huaral,,
-1944668,604,1507,Huarochirí,LIM,,1367991,huarochiri,PE-LIM-Huarochiri,,
-1944669,604,1508,Huaura,LIM,,1433001,huaura,PE-LIM-Huaura,,
-1944672,604,1509,Oyón,LIM,,1422624,oyon,PE-LIM-Oyon,,
-1944673,604,1510,Yauyos,LIM,,1422601,yauyos,PE-LIM-Yauyos,,
+1944660,604,1502,Barranca,LIM,,1422596,barranca,PE-LIM-Barranca,,"{""area_sr"": 0.11319, ""area_km2"": 1370, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 37, ""side_estim_deg"": 0.3364, ""elongation_factor"": 3.01}"
+1944661,604,1503,Cajatambo,LIM,,1422587,cajatambo,PE-LIM-Cajatambo,,"{""area_sr"": 0.12608, ""area_km2"": 1527, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 39.1, ""side_estim_deg"": 0.3551, ""elongation_factor"": 1.82}"
+1944663,604,1504,Canta,LIM,,1422611,canta,PE-LIM-Canta,,"{""area_sr"": 0.14008, ""area_km2"": 1690, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 41.1, ""side_estim_deg"": 0.3743, ""elongation_factor"": 2.08}"
+1944664,604,1505,Cañete,LIM,,1431156,canete,PE-LIM-Canete,,"{""area_sr"": 0.37646, ""area_km2"": 4522, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 67.2, ""side_estim_deg"": 0.6136, ""elongation_factor"": 2.25}"
+1944667,604,1506,Huaral,LIM,,1422606,huaral,PE-LIM-Huaral,,"{""area_sr"": 0.30299, ""area_km2"": 3659, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 60.5, ""side_estim_deg"": 0.5504, ""elongation_factor"": 2.23}"
+1944668,604,1507,Huarochirí,LIM,,1367991,huarochiri,PE-LIM-Huarochiri,,"{""area_sr"": 0.47596, ""area_km2"": 5735, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 75.7, ""side_estim_deg"": 0.6899, ""elongation_factor"": 2.09}"
+1944669,604,1508,Huaura,LIM,,1433001,huaura,PE-LIM-Huaura,,"{""area_sr"": 0.40771, ""area_km2"": 4928, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 70.2, ""side_estim_deg"": 0.6385, ""elongation_factor"": 2.84}"
+1944672,604,1509,Oyón,LIM,,1422624,oyon,PE-LIM-Oyon,,"{""area_sr"": 0.15506, ""area_km2"": 1876, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 43.3, ""side_estim_deg"": 0.3938, ""elongation_factor"": 2.18}"
+1944673,604,1510,Yauyos,LIM,,1422601,yauyos,PE-LIM-Yauyos,,"{""area_sr"": 0.5817, ""area_km2"": 6994, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 83.6, ""side_estim_deg"": 0.7627, ""elongation_factor"": 1.83}"

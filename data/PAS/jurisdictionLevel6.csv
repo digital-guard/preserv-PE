@@ -1,4 +1,4 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1948453,604,1902,"Daniel Alcides Carrión",PAS,,1944288,daniel.alcides.carrion,PE-PAS-DanielAlcidesCarrion,,
-1948454,604,1903,Oxapampa,PAS,,960169,oxapampa,PE-PAS-Oxapampa,,
-1948455,604,1901,Pasco,PAS,,976034,pasco,PE-PAS-Pasco,,
+1948453,604,1902,"Daniel Alcides Carrión",PAS,,1944288,daniel.alcides.carrion,PE-PAS-DanielAlcidesCarrion,,"{""area_sr"": 0.12562, ""area_km2"": 1521, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 39, ""side_estim_deg"": 0.3544, ""elongation_factor"": 1.63}"
+1948454,604,1903,Oxapampa,PAS,,960169,oxapampa,PE-PAS-Oxapampa,,"{""area_sr"": 1.46117, ""area_km2"": 17703, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 133.1, ""side_estim_deg"": 1.2088, ""elongation_factor"": 2.05}"
+1948455,604,1901,Pasco,PAS,,976034,pasco,PE-PAS-Pasco,,"{""area_sr"": 0.39277, ""area_km2"": 4752, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 68.9, ""side_estim_deg"": 0.6267, ""elongation_factor"": 2.54}"

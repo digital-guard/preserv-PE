@@ -1,4 +1,4 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1986975,604,2402,"Contralmirante Villar",TUM,,1422590,contralmirante.villar,PE-TUM-ContralmiranteVillar,,
-1986976,604,2401,Tumbes,TUM,,1479348,tumbes,PE-TUM-Tumbes,,
-1986977,604,2403,Zarumilla,TUM,,1477797,zarumilla,PE-TUM-Zarumilla,,
+1986975,604,2402,"Contralmirante Villar",TUM,,1422590,contralmirante.villar,PE-TUM-ContralmiranteVillar,,"{""area_sr"": 0.17356, ""area_km2"": 2131, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 46.2, ""side_estim_deg"": 0.4166, ""elongation_factor"": 1.54}"
+1986976,604,2401,Tumbes,TUM,,1479348,tumbes,PE-TUM-Tumbes,,"{""area_sr"": 0.14452, ""area_km2"": 1775, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 42.1, ""side_estim_deg"": 0.3802, ""elongation_factor"": 2.69}"
+1986977,604,2403,Zarumilla,TUM,,1477797,zarumilla,PE-TUM-Zarumilla,,"{""area_sr"": 0.06111, ""area_km2"": 751, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 27.4, ""side_estim_deg"": 0.2472, ""elongation_factor"": 2.54}"

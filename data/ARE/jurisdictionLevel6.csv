@@ -1,9 +1,9 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1887794,604,401,Arequipa,ARE,,601118,arequipa,PE-ARE-Arequipa,,
-1879621,604,402,Camaná,ARE,,1784851,camana,PE-ARE-Camana,,
-1879290,604,403,Caravelí,ARE,,1779727,caraveli,PE-ARE-Caraveli,,
-1891398,604,404,Castilla,ARE,,614628,castilla,PE-ARE-Castilla,,
-1891306,604,405,Caylloma,ARE,,1806435,caylloma,PE-ARE-Caylloma,,
-1895122,604,406,Condesuyos,ARE,,1814253,condesuyos,PE-ARE-Condesuyos,,
-1879096,604,407,Islay,ARE,,1779688,islay,PE-ARE-Islay,,
-1895123,604,408,"La Unión",ARE,,1779698,la.union,PE-ARE-LaUnion,,
+1887794,604,401,Arequipa,ARE,,601118,arequipa,PE-ARE-Arequipa,,"{""area_sr"": 0.81692, ""area_km2"": 9659, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 98.3, ""side_estim_deg"": 0.9038, ""elongation_factor"": 1.94}"
+1879621,604,402,Camaná,ARE,,1784851,camana,PE-ARE-Camana,,"{""area_sr"": 0.3381, ""area_km2"": 3997, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 63.2, ""side_estim_deg"": 0.5815, ""elongation_factor"": 3.36}"
+1879290,604,403,Caravelí,ARE,,1779727,caraveli,PE-ARE-Caraveli,,"{""area_sr"": 1.09697, ""area_km2"": 13012, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 114.1, ""side_estim_deg"": 1.0474, ""elongation_factor"": 2.28}"
+1891398,604,404,Castilla,ARE,,614628,castilla,PE-ARE-Castilla,,"{""area_sr"": 0.58318, ""area_km2"": 6920, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 83.2, ""side_estim_deg"": 0.7637, ""elongation_factor"": 2.59}"
+1891306,604,405,Caylloma,ARE,,1806435,caylloma,PE-ARE-Caylloma,,"{""area_sr"": 1.1855, ""area_km2"": 14063, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 118.6, ""side_estim_deg"": 1.0888, ""elongation_factor"": 2.73}"
+1895122,604,406,Condesuyos,ARE,,1814253,condesuyos,PE-ARE-Condesuyos,,"{""area_sr"": 0.57699, ""area_km2"": 6847, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 82.7, ""side_estim_deg"": 0.7596, ""elongation_factor"": 3.65}"
+1879096,604,407,Islay,ARE,,1779688,islay,PE-ARE-Islay,,"{""area_sr"": 0.32562, ""area_km2"": 3838, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 62, ""side_estim_deg"": 0.5706, ""elongation_factor"": 1.89}"
+1895123,604,408,"La Unión",ARE,,1779698,la.union,PE-ARE-LaUnion,,"{""area_sr"": 0.41127, ""area_km2"": 4893, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 69.9, ""side_estim_deg"": 0.6413, ""elongation_factor"": 2.05}"

@@ -1,11 +1,11 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1971662,604,2202,Bellavista,SAM,,2084689,bellavista,PE-SAM-Bellavista,,
-1971663,604,2203,"El Dorado",SAM,,2084675,el.dorado,PE-SAM-ElDorado,,
-1971664,604,2204,Huallaga,SAM,,731515,huallaga,PE-SAM-Huallaga,,
-1971665,604,2205,Lamas,SAM,,2281473,lamas,PE-SAM-Lamas,,
-1971666,604,2206,"Mariscal Cáceres",SAM,,1947944,mariscal.caceres,PE-SAM-MariscalCaceres,,
-1971667,604,2201,Moyobamba,SAM,,1948150,moyobamba,PE-SAM-Moyobamba,,
-1971668,604,2207,Picota,SAM,,590394,picota,PE-SAM-Picota,,
-1971669,604,2208,Rioja,SAM,,2084648,rioja,PE-SAM-Rioja,,
-1971670,604,2209,"San Martín",SAM,,588491,san.martin,PE-SAM-SanMartin,,
-1971671,604,2210,Tocache,SAM,,2084659,tocache,PE-SAM-Tocache,,
+1971662,604,2202,Bellavista,SAM,,2084689,bellavista,PE-SAM-Bellavista,,"{""area_sr"": 0.66142, ""area_km2"": 8071, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 89.8, ""side_estim_deg"": 0.8133, ""elongation_factor"": 2.51}"
+1971663,604,2203,"El Dorado",SAM,,2084675,el.dorado,PE-SAM-ElDorado,,"{""area_sr"": 0.10572, ""area_km2"": 1293, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 36, ""side_estim_deg"": 0.3251, ""elongation_factor"": 1.97}"
+1971664,604,2204,Huallaga,SAM,,731515,huallaga,PE-SAM-Huallaga,,"{""area_sr"": 0.19764, ""area_km2"": 2416, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 49.2, ""side_estim_deg"": 0.4446, ""elongation_factor"": 2.41}"
+1971665,604,2205,Lamas,SAM,,2281473,lamas,PE-SAM-Lamas,,"{""area_sr"": 0.38242, ""area_km2"": 4680, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 68.4, ""side_estim_deg"": 0.6184, ""elongation_factor"": 2.19}"
+1971666,604,2206,"Mariscal Cáceres",SAM,,1947944,mariscal.caceres,PE-SAM-MariscalCaceres,,"{""area_sr"": 1.16705, ""area_km2"": 14252, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 119.4, ""side_estim_deg"": 1.0803, ""elongation_factor"": 2.08}"
+1971667,604,2201,Moyobamba,SAM,,1948150,moyobamba,PE-SAM-Moyobamba,,"{""area_sr"": 0.32053, ""area_km2"": 3925, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 62.6, ""side_estim_deg"": 0.5662, ""elongation_factor"": 3.18}"
+1971668,604,2207,Picota,SAM,,590394,picota,PE-SAM-Picota,,"{""area_sr"": 0.1725, ""area_km2"": 2108, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 45.9, ""side_estim_deg"": 0.4153, ""elongation_factor"": 1.89}"
+1971669,604,2208,Rioja,SAM,,2084648,rioja,PE-SAM-Rioja,,"{""area_sr"": 0.21636, ""area_km2"": 2650, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 51.5, ""side_estim_deg"": 0.4651, ""elongation_factor"": 2.88}"
+1971670,604,2209,"San Martín",SAM,,588491,san.martin,PE-SAM-SanMartin,,"{""area_sr"": 0.45224, ""area_km2"": 5532, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 74.4, ""side_estim_deg"": 0.6725, ""elongation_factor"": 2.26}"
+1971671,604,2210,Tocache,SAM,,2084659,tocache,PE-SAM-Tocache,,"{""area_sr"": 0.49469, ""area_km2"": 6028, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 77.6, ""side_estim_deg"": 0.7033, ""elongation_factor"": 2.76}"

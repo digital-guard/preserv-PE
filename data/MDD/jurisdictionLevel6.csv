@@ -1,4 +1,4 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1891288,604,1702,Manu,MDD,,2320717,manu,PE-MDD-Manu,,
-1891289,604,1703,Tahuamanu,MDD,,945636,tahuamanu,PE-MDD-Tahuamanu,,
-1891290,604,1701,Tambopata,MDD,,1999122,tambopata,PE-MDD-Tambopata,,
+1891288,604,1702,Manu,MDD,,2320717,manu,PE-MDD-Manu,,"{""area_sr"": 2.38642, ""area_km2"": 28719, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 169.5, ""side_estim_deg"": 1.5448, ""elongation_factor"": 2.09}"
+1891289,604,1703,Tahuamanu,MDD,,945636,tahuamanu,PE-MDD-Tahuamanu,,"{""area_sr"": 1.64605, ""area_km2"": 19888, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 141, ""side_estim_deg"": 1.283, ""elongation_factor"": 3.41}"
+1891290,604,1701,Tambopata,MDD,,1999122,tambopata,PE-MDD-Tambopata,,"{""area_sr"": 2.98817, ""area_km2"": 35970, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 189.7, ""side_estim_deg"": 1.7286, ""elongation_factor"": 2.83}"

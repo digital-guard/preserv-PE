@@ -1,10 +1,10 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1948259,604,1203,Chanchamayo,JUN,,765311,chanchamayo,PE-JUN-Chanchamayo,,
-1948260,604,1209,Chupaca,JUN,,1777631,chupaca,PE-JUN-Chupaca,,
-1948261,604,1202,Concepción,JUN,,1991124,concepcion,PE-JUN-Concepcion,,
-1948262,604,1201,Huancayo,JUN,,1777621,huancayo,PE-JUN-Huancayo,,
-1948263,604,1204,Jauja,JUN,,922867,jauja,PE-JUN-Jauja,,
-1948264,604,1205,Junín,JUN,,644721,junin,PE-JUN-Junin,,
-1948265,604,1206,Satipo,JUN,,1335384,satipo,PE-JUN-Satipo,,
-1948266,604,1207,Tarma,JUN,,946269,tarma,PE-JUN-Tarma,,
-1948267,604,1208,Yauli,JUN,,1342828,yauli,PE-JUN-Yauli,,
+1948259,604,1203,Chanchamayo,JUN,,765311,chanchamayo,PE-JUN-Chanchamayo,,"{""area_sr"": 0.38721, ""area_km2"": 4681, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 68.4, ""side_estim_deg"": 0.6223, ""elongation_factor"": 1.98}"
+1948260,604,1209,Chupaca,JUN,,1777631,chupaca,PE-JUN-Chupaca,,"{""area_sr"": 0.09672, ""area_km2"": 1164, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 34.1, ""side_estim_deg"": 0.311, ""elongation_factor"": 1.67}"
+1948261,604,1202,Concepción,JUN,,1991124,concepcion,PE-JUN-Concepcion,,"{""area_sr"": 0.18632, ""area_km2"": 2246, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 47.4, ""side_estim_deg"": 0.4316, ""elongation_factor"": 3.49}"
+1948262,604,1201,Huancayo,JUN,,1777621,huancayo,PE-JUN-Huancayo,,"{""area_sr"": 0.31041, ""area_km2"": 3738, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 61.1, ""side_estim_deg"": 0.5571, ""elongation_factor"": 3.26}"
+1948263,604,1204,Jauja,JUN,,922867,jauja,PE-JUN-Jauja,,"{""area_sr"": 0.36129, ""area_km2"": 4357, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 66, ""side_estim_deg"": 0.6011, ""elongation_factor"": 2.56}"
+1948264,604,1205,Junín,JUN,,644721,junin,PE-JUN-Junin,,"{""area_sr"": 0.21877, ""area_km2"": 2644, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 51.4, ""side_estim_deg"": 0.4677, ""elongation_factor"": 2.6}"
+1948265,604,1206,Satipo,JUN,,1335384,satipo,PE-JUN-Satipo,,"{""area_sr"": 1.58742, ""area_km2"": 19153, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 138.4, ""side_estim_deg"": 1.2599, ""elongation_factor"": 2.11}"
+1948266,604,1207,Tarma,JUN,,946269,tarma,PE-JUN-Tarma,,"{""area_sr"": 0.22127, ""area_km2"": 2672, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 51.7, ""side_estim_deg"": 0.4704, ""elongation_factor"": 2.33}"
+1948267,604,1208,Yauli,JUN,,1342828,yauli,PE-JUN-Yauli,,"{""area_sr"": 0.30142, ""area_km2"": 3638, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 60.3, ""side_estim_deg"": 0.549, ""elongation_factor"": 2.21}"

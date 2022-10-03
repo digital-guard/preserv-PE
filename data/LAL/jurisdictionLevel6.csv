@@ -1,13 +1,13 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1967963,604,1302,Ascope,LAL,,927324,ascope,PE-LAL-Ascope,,
-1967968,604,1303,Bolívar,LAL,,951816,bolivar,PE-LAL-Bolivar,,
-1967969,604,1304,Chepén,LAL,,1920599,chepen,PE-LAL-Chepen,,
-1967970,604,1311,"Gran Chimú",LAL,,1920564,gran.chimu,PE-LAL-GranChimu,,
-1967971,604,1305,Julcán,LAL,,1920491,julcan,PE-LAL-Julcan,,
-1967972,604,1306,Otuzco,LAL,,583300,otuzco,PE-LAL-Otuzco,,
-1967973,604,1307,Pacasmayo,LAL,,1944266,pacasmayo,PE-LAL-Pacasmayo,,
-1967974,604,1308,Pataz,LAL,,1948180,pataz,PE-LAL-Pataz,,
-1967975,604,1310,"Santiago de Chuco",LAL,,1944238,santiago.chuco,PE-LAL-SantiagoChuco,,
-1967976,604,1309,"Sánchez Carrión",LAL,,1944245,sanchez.carrion,PE-LAL-SanchezCarrion,,
-1967977,604,1301,Trujillo,LAL,,2013427,trujillo,PE-LAL-Trujillo,,
-1967978,604,1312,Virú,LAL,,1948051,viru,PE-LAL-Viru,,
+1967963,604,1302,Ascope,LAL,,927324,ascope,PE-LAL-Ascope,,"{""area_sr"": 0.21627, ""area_km2"": 2639, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 51.4, ""side_estim_deg"": 0.465, ""elongation_factor"": 1.9}"
+1967968,604,1303,Bolívar,LAL,,951816,bolivar,PE-LAL-Bolivar,,"{""area_sr"": 0.14199, ""area_km2"": 1734, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 41.6, ""side_estim_deg"": 0.3768, ""elongation_factor"": 2.43}"
+1967969,604,1304,Chepén,LAL,,1920599,chepen,PE-LAL-Chepen,,"{""area_sr"": 0.09387, ""area_km2"": 1147, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 33.9, ""side_estim_deg"": 0.3064, ""elongation_factor"": 1.57}"
+1967970,604,1311,"Gran Chimú",LAL,,1920564,gran.chimu,PE-LAL-GranChimu,,"{""area_sr"": 0.10556, ""area_km2"": 1288, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 35.9, ""side_estim_deg"": 0.3249, ""elongation_factor"": 2.55}"
+1967971,604,1305,Julcán,LAL,,1920491,julcan,PE-LAL-Julcan,,"{""area_sr"": 0.09102, ""area_km2"": 1109, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 33.3, ""side_estim_deg"": 0.3017, ""elongation_factor"": 1.65}"
+1967972,604,1306,Otuzco,LAL,,583300,otuzco,PE-LAL-Otuzco,,"{""area_sr"": 0.17035, ""area_km2"": 2078, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 45.6, ""side_estim_deg"": 0.4127, ""elongation_factor"": 2.19}"
+1967973,604,1307,Pacasmayo,LAL,,1944266,pacasmayo,PE-LAL-Pacasmayo,,"{""area_sr"": 0.09119, ""area_km2"": 1113, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 33.4, ""side_estim_deg"": 0.302, ""elongation_factor"": 1.62}"
+1967974,604,1308,Pataz,LAL,,1948180,pataz,PE-LAL-Pataz,,"{""area_sr"": 0.32756, ""area_km2"": 3992, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 63.2, ""side_estim_deg"": 0.5723, ""elongation_factor"": 2.21}"
+1967975,604,1310,"Santiago de Chuco",LAL,,1944238,santiago.chuco,PE-LAL-SantiagoChuco,,"{""area_sr"": 0.21904, ""area_km2"": 2670, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 51.7, ""side_estim_deg"": 0.468, ""elongation_factor"": 2.74}"
+1967976,604,1309,"Sánchez Carrión",LAL,,1944245,sanchez.carrion,PE-LAL-SanchezCarrion,,"{""area_sr"": 0.20479, ""area_km2"": 2498, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 50, ""side_estim_deg"": 0.4525, ""elongation_factor"": 1.86}"
+1967977,604,1301,Trujillo,LAL,,2013427,trujillo,PE-LAL-Trujillo,,"{""area_sr"": 0.14584, ""area_km2"": 1778, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 42.2, ""side_estim_deg"": 0.3819, ""elongation_factor"": 2.11}"
+1967978,604,1312,Virú,LAL,,1948051,viru,PE-LAL-Viru,,"{""area_sr"": 0.26255, ""area_km2"": 3197, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 56.5, ""side_estim_deg"": 0.5124, ""elongation_factor"": 2.05}"

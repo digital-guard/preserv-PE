@@ -1,14 +1,14 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1896112,604,602,Cajabamba,CAJ,,751373,cajabamba,PE-CAJ-Cajabamba,,
-1896113,604,601,Cajamarca,CAJ,,1431135,cajamarca,PE-CAJ-Cajamarca,,
-1900934,604,603,Celendín,CAJ,,1431153,celendin,PE-CAJ-Celendin,,
-1901115,604,604,Chota,CAJ,,1431140,chota,PE-CAJ-Chota,,
-1900626,604,605,Contumazá,CAJ,,1948003,contumaza,PE-CAJ-Contumaza,,
-1901116,604,606,Cutervo,CAJ,,1947910,cutervo,PE-CAJ-Cutervo,,
-1900935,604,607,Hualgayoc,CAJ,,1947926,hualgayoc,PE-CAJ-Hualgayoc,,
-1901117,604,608,Jaén,CAJ,,683949,jaen,PE-CAJ-Jaen,,
-1900265,604,609,"San Ignacio",CAJ,,1814197,san.ignacio,PE-CAJ-SanIgnacio,,
-1896114,604,610,"San Marcos",CAJ,,629428,san.marcos,PE-CAJ-SanMarcos,,
-1900627,604,611,"San Miguel",CAJ,,1947960,san.miguel,PE-CAJ-SanMiguel,,
-1900628,604,612,"San Pablo",CAJ,,166706,san.pablo,PE-CAJ-SanPablo,,
-1900964,604,613,"Santa Cruz",CAJ,,2084630,santa.cruz,PE-CAJ-SantaCruz,,
+1896112,604,602,Cajabamba,CAJ,,751373,cajabamba,PE-CAJ-Cajabamba,,"{""area_sr"": 0.14626, ""area_km2"": 1785, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 42.3, ""side_estim_deg"": 0.3824, ""elongation_factor"": 2.08}"
+1896113,604,601,Cajamarca,CAJ,,1431135,cajamarca,PE-CAJ-Cajamarca,,"{""area_sr"": 0.24355, ""area_km2"": 2975, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 54.5, ""side_estim_deg"": 0.4935, ""elongation_factor"": 1.86}"
+1900934,604,603,Celendín,CAJ,,1431153,celendin,PE-CAJ-Celendin,,"{""area_sr"": 0.21667, ""area_km2"": 2649, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 51.5, ""side_estim_deg"": 0.4655, ""elongation_factor"": 1.8}"
+1901115,604,604,Chota,CAJ,,1431140,chota,PE-CAJ-Chota,,"{""area_sr"": 0.30723, ""area_km2"": 3758, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 61.3, ""side_estim_deg"": 0.5543, ""elongation_factor"": 3.03}"
+1900626,604,605,Contumazá,CAJ,,1948003,contumaza,PE-CAJ-Contumaza,,"{""area_sr"": 0.16953, ""area_km2"": 2070, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 45.5, ""side_estim_deg"": 0.4117, ""elongation_factor"": 2.17}"
+1901116,604,606,Cutervo,CAJ,,1947910,cutervo,PE-CAJ-Cutervo,,"{""area_sr"": 0.24725, ""area_km2"": 3026, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 55, ""side_estim_deg"": 0.4972, ""elongation_factor"": 2.2}"
+1900935,604,607,Hualgayoc,CAJ,,1947926,hualgayoc,PE-CAJ-Hualgayoc,,"{""area_sr"": 0.06441, ""area_km2"": 788, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 28.1, ""side_estim_deg"": 0.2538, ""elongation_factor"": 1.87}"
+1901117,604,608,Jaén,CAJ,,683949,jaen,PE-CAJ-Jaen,,"{""area_sr"": 0.41112, ""area_km2"": 5036, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 71, ""side_estim_deg"": 0.6412, ""elongation_factor"": 1.98}"
+1900265,604,609,"San Ignacio",CAJ,,1814197,san.ignacio,PE-CAJ-SanIgnacio,,"{""area_sr"": 0.40044, ""area_km2"": 4910, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 70.1, ""side_estim_deg"": 0.6328, ""elongation_factor"": 1.94}"
+1896114,604,610,"San Marcos",CAJ,,629428,san.marcos,PE-CAJ-SanMarcos,,"{""area_sr"": 0.11076, ""area_km2"": 1353, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 36.8, ""side_estim_deg"": 0.3328, ""elongation_factor"": 1.73}"
+1900627,604,611,"San Miguel",CAJ,,1947960,san.miguel,PE-CAJ-SanMiguel,,"{""area_sr"": 0.20746, ""area_km2"": 2535, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 50.4, ""side_estim_deg"": 0.4555, ""elongation_factor"": 1.89}"
+1900628,604,612,"San Pablo",CAJ,,166706,san.pablo,PE-CAJ-SanPablo,,"{""area_sr"": 0.05441, ""area_km2"": 665, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 25.8, ""side_estim_deg"": 0.2333, ""elongation_factor"": 1.86}"
+1900964,604,613,"Santa Cruz",CAJ,,2084630,santa.cruz,PE-CAJ-SantaCruz,,"{""area_sr"": 0.11291, ""area_km2"": 1381, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 37.2, ""side_estim_deg"": 0.336, ""elongation_factor"": 2.03}"

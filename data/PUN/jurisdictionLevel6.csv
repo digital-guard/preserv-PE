@@ -1,14 +1,14 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1918540,604,2102,Azángaro,PUN,,2088824,azangaro,PE-PUN-Azangaro,,
-1919867,604,2103,Carabaya,PUN,,1944216,carabaya,PE-PUN-Carabaya,,
-1907872,604,2104,Chucuito,PUN,,2088871,chucuito,PE-PUN-Chucuito,,
-1907873,604,2105,"El Collao",PUN,,2088833,el.collao,PE-PUN-ElCollao,,
-1913488,604,2106,Huancané,PUN,,1944227,huancane,PE-PUN-Huancane,,
-1916262,604,2107,Lampa,PUN,,1944347,lampa,PE-PUN-Lampa,,
-1918541,604,2108,Melgar,PUN,,1944356,melgar,PE-PUN-Melgar,,
-1913489,604,2109,Moho,PUN,,2089123,moho,PE-PUN-Moho,,
-1913490,604,2101,Puno,PUN,,2084681,puno,PE-PUN-Puno,,
-1918542,604,2110,"San Antonio de Putina",PUN,,1935565,san.antonio.putina,PE-PUN-SanAntonioPutina,,
-1913491,604,2111,"San Román",PUN,,1944337,san.roman,PE-PUN-SanRoman,,
-1919868,604,2112,Sandia,PUN,,1948135,sandia,PE-PUN-Sandia,,
-1907874,604,2113,Yunguyo,PUN,,2088882,yunguyo,PE-PUN-Yunguyo,,
+1918540,604,2102,Azángaro,PUN,,2088824,azangaro,PE-PUN-Azangaro,,"{""area_sr"": 0.43666, ""area_km2"": 5201, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 72.1, ""side_estim_deg"": 0.6608, ""elongation_factor"": 2.25}"
+1919867,604,2103,Carabaya,PUN,,1944216,carabaya,PE-PUN-Carabaya,,"{""area_sr"": 0.98112, ""area_km2"": 11737, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 108.3, ""side_estim_deg"": 0.9905, ""elongation_factor"": 2.07}"
+1907872,604,2104,Chucuito,PUN,,2088871,chucuito,PE-PUN-Chucuito,,"{""area_sr"": 0.33417, ""area_km2"": 3946, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 62.8, ""side_estim_deg"": 0.5781, ""elongation_factor"": 2.33}"
+1907873,604,2105,"El Collao",PUN,,2088833,el.collao,PE-PUN-ElCollao,,"{""area_sr"": 0.47877, ""area_km2"": 5650, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 75.2, ""side_estim_deg"": 0.6919, ""elongation_factor"": 2.5}"
+1913488,604,2106,Huancané,PUN,,1944227,huancane,PE-PUN-Huancane,,"{""area_sr"": 0.24214, ""area_km2"": 2880, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 53.7, ""side_estim_deg"": 0.4921, ""elongation_factor"": 3.93}"
+1916262,604,2107,Lampa,PUN,,1944347,lampa,PE-PUN-Lampa,,"{""area_sr"": 0.48211, ""area_km2"": 5727, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 75.7, ""side_estim_deg"": 0.6943, ""elongation_factor"": 2.19}"
+1918541,604,2108,Melgar,PUN,,1944356,melgar,PE-PUN-Melgar,,"{""area_sr"": 0.54876, ""area_km2"": 6542, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 80.9, ""side_estim_deg"": 0.7408, ""elongation_factor"": 2.05}"
+1913489,604,2109,Moho,PUN,,2089123,moho,PE-PUN-Moho,,"{""area_sr"": 0.08644, ""area_km2"": 1027, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 32, ""side_estim_deg"": 0.294, ""elongation_factor"": 2.7}"
+1913490,604,2101,Puno,PUN,,2084681,puno,PE-PUN-Puno,,"{""area_sr"": 0.55179, ""area_km2"": 6533, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 80.8, ""side_estim_deg"": 0.7428, ""elongation_factor"": 2.95}"
+1918542,604,2110,"San Antonio de Putina",PUN,,1935565,san.antonio.putina,PE-PUN-SanAntonioPutina,,"{""area_sr"": 0.26298, ""area_km2"": 3134, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 56, ""side_estim_deg"": 0.5128, ""elongation_factor"": 3.1}"
+1913491,604,2111,"San Román",PUN,,1944337,san.roman,PE-PUN-SanRoman,,"{""area_sr"": 0.19004, ""area_km2"": 2254, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 47.5, ""side_estim_deg"": 0.4359, ""elongation_factor"": 3.23}"
+1919868,604,2112,Sandia,PUN,,1948135,sandia,PE-PUN-Sandia,,"{""area_sr"": 1.05793, ""area_km2"": 12653, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 112.5, ""side_estim_deg"": 1.0286, ""elongation_factor"": 2.21}"
+1907874,604,2113,Yunguyo,PUN,,2088882,yunguyo,PE-PUN-Yunguyo,,"{""area_sr"": 0.03555, ""area_km2"": 420, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 20.5, ""side_estim_deg"": 0.1885, ""elongation_factor"": 3.69}"

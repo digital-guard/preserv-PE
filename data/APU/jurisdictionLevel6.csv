@@ -1,8 +1,8 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1929523,604,301,Abancay,APU,,1771870,abancay,PE-APU-Abancay,,
-1929524,604,302,Andahuaylas,APU,,1798747,andahuaylas,PE-APU-Andahuaylas,,
-1929525,604,303,Antabamba,APU,,1814228,antabamba,PE-APU-Antabamba,,
-1929526,604,304,Aymaraes,APU,,1814234,aymaraes,PE-APU-Aymaraes,,
-1929527,604,306,Chincheros,APU,,578912,chincheros,PE-APU-Chincheros,,
-1929528,604,305,Cotabambas,APU,,1814244,cotabambas,PE-APU-Cotabambas,,
-1929529,604,307,Grau,APU,,1814172,grau,PE-APU-Grau,,
+1929523,604,301,Abancay,APU,,1771870,abancay,PE-APU-Abancay,,"{""area_sr"": 0.28867, ""area_km2"": 3454, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 58.8, ""side_estim_deg"": 0.5373, ""elongation_factor"": 2.3}"
+1929524,604,302,Andahuaylas,APU,,1798747,andahuaylas,PE-APU-Andahuaylas,,"{""area_sr"": 0.3374, ""area_km2"": 4036, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 63.5, ""side_estim_deg"": 0.5809, ""elongation_factor"": 2.49}"
+1929525,604,303,Antabamba,APU,,1814228,antabamba,PE-APU-Antabamba,,"{""area_sr"": 0.27062, ""area_km2"": 3229, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 56.8, ""side_estim_deg"": 0.5202, ""elongation_factor"": 2.21}"
+1929526,604,304,Aymaraes,APU,,1814234,aymaraes,PE-APU-Aymaraes,,"{""area_sr"": 0.34589, ""area_km2"": 4128, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 64.3, ""side_estim_deg"": 0.5881, ""elongation_factor"": 2.01}"
+1929527,604,306,Chincheros,APU,,578912,chincheros,PE-APU-Chincheros,,"{""area_sr"": 0.12592, ""area_km2"": 1508, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 38.8, ""side_estim_deg"": 0.3548, ""elongation_factor"": 1.82}"
+1929528,604,305,Cotabambas,APU,,1814244,cotabambas,PE-APU-Cotabambas,,"{""area_sr"": 0.21934, ""area_km2"": 2622, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 51.2, ""side_estim_deg"": 0.4683, ""elongation_factor"": 1.9}"
+1929529,604,307,Grau,APU,,1814172,grau,PE-APU-Grau,,"{""area_sr"": 0.17808, ""area_km2"": 2128, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 46.1, ""side_estim_deg"": 0.422, ""elongation_factor"": 2.03}"

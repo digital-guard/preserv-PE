@@ -1,21 +1,21 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1953171,604,202,Aija,ANC,,615891,aija,PE-ANC-Aija,,
-1953172,604,203,"Antonio Raymondi",ANC,,1166121,antonio.raymondi,PE-ANC-AntonioRaymondi,,
-1953173,604,204,Asunción,ANC,,1166116,asuncion,PE-ANC-Asuncion,,
-1953174,604,205,Bolognesi,ANC,,1166113,bolognesi,PE-ANC-Bolognesi,,
-1953178,604,206,Carhuaz,ANC,,1166126,carhuaz,PE-ANC-Carhuaz,,
-1953179,604,207,"Carlos Fermín Fitzcarrald",ANC,,633478,carlos.fermin.fitzcarrald,PE-ANC-CarlosFerminFitzcarrald,,
-1953180,604,208,Casma,ANC,,747503,casma,PE-ANC-Casma,,
-1953182,604,209,Corongo,ANC,,1166124,corongo,PE-ANC-Corongo,,
-1953183,604,201,Huaraz,ANC,,1140995,huaraz,PE-ANC-Huaraz,,
-1953184,604,210,Huari,ANC,,1779705,huari,PE-ANC-Huari,,
-1953185,604,211,Huarmey,ANC,,1779624,huarmey,PE-ANC-Huarmey,,
-1953186,604,212,Huaylas,ANC,,1779670,huaylas,PE-ANC-Huaylas,,
-1953187,604,213,"Mariscal Luzuriaga",ANC,,1779663,mariscal.luzuriaga,PE-ANC-MariscalLuzuriaga,,
-1953188,604,214,Ocros,ANC,,1779635,ocros,PE-ANC-Ocros,,
-1953189,604,215,Pallasca,ANC,,1779654,pallasca,PE-ANC-Pallasca,,
-1953190,604,216,Pomabamba,ANC,,1779643,pomabamba,PE-ANC-Pomabamba,,
-1953191,604,217,Recuay,ANC,,1779720,recuay,PE-ANC-Recuay,,
-1953192,604,218,Santa,ANC,,1779734,santa,PE-ANC-Santa,,
-1953193,604,219,Sihuas,ANC,,1779714,sihuas,PE-ANC-Sihuas,,
-1953194,604,220,Yungay,ANC,,1798739,yungay,PE-ANC-Yungay,,
+1953171,604,202,Aija,ANC,,615891,aija,PE-ANC-Aija,,"{""area_sr"": 0.05731, ""area_km2"": 695, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 26.4, ""side_estim_deg"": 0.2394, ""elongation_factor"": 2.45}"
+1953172,604,203,"Antonio Raymondi",ANC,,1166121,antonio.raymondi,PE-ANC-AntonioRaymondi,,"{""area_sr"": 0.04597, ""area_km2"": 559, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 23.6, ""side_estim_deg"": 0.2144, ""elongation_factor"": 1.59}"
+1953173,604,204,Asunción,ANC,,1166116,asuncion,PE-ANC-Asuncion,,"{""area_sr"": 0.04342, ""area_km2"": 528, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 23, ""side_estim_deg"": 0.2084, ""elongation_factor"": 1.42}"
+1953174,604,205,Bolognesi,ANC,,1166113,bolognesi,PE-ANC-Bolognesi,,"{""area_sr"": 0.25796, ""area_km2"": 3127, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 55.9, ""side_estim_deg"": 0.5079, ""elongation_factor"": 2.82}"
+1953178,604,206,Carhuaz,ANC,,1166126,carhuaz,PE-ANC-Carhuaz,,"{""area_sr"": 0.06693, ""area_km2"": 813, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 28.5, ""side_estim_deg"": 0.2587, ""elongation_factor"": 2.42}"
+1953179,604,207,"Carlos Fermín Fitzcarrald",ANC,,633478,carlos.fermin.fitzcarrald,PE-ANC-CarlosFerminFitzcarrald,,"{""area_sr"": 0.05156, ""area_km2"": 627, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 25, ""side_estim_deg"": 0.2271, ""elongation_factor"": 1.5}"
+1953180,604,208,Casma,ANC,,747503,casma,PE-ANC-Casma,,"{""area_sr"": 0.18712, ""area_km2"": 2273, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 47.7, ""side_estim_deg"": 0.4326, ""elongation_factor"": 1.87}"
+1953182,604,209,Corongo,ANC,,1166124,corongo,PE-ANC-Corongo,,"{""area_sr"": 0.08338, ""area_km2"": 1015, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 31.9, ""side_estim_deg"": 0.2887, ""elongation_factor"": 1.77}"
+1953183,604,201,Huaraz,ANC,,1140995,huaraz,PE-ANC-Huaraz,,"{""area_sr"": 0.20646, ""area_km2"": 2507, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 50.1, ""side_estim_deg"": 0.4544, ""elongation_factor"": 2.17}"
+1953184,604,210,Huari,ANC,,1779705,huari,PE-ANC-Huari,,"{""area_sr"": 0.22971, ""area_km2"": 2790, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 52.8, ""side_estim_deg"": 0.4793, ""elongation_factor"": 2.26}"
+1953185,604,211,Huarmey,ANC,,1779624,huarmey,PE-ANC-Huarmey,,"{""area_sr"": 0.32346, ""area_km2"": 3921, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 62.6, ""side_estim_deg"": 0.5687, ""elongation_factor"": 2.17}"
+1953186,604,212,Huaylas,ANC,,1779670,huaylas,PE-ANC-Huaylas,,"{""area_sr"": 0.18799, ""area_km2"": 2287, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 47.8, ""side_estim_deg"": 0.4336, ""elongation_factor"": 1.77}"
+1953187,604,213,"Mariscal Luzuriaga",ANC,,1779663,mariscal.luzuriaga,PE-ANC-MariscalLuzuriaga,,"{""area_sr"": 0.06051, ""area_km2"": 736, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 27.1, ""side_estim_deg"": 0.246, ""elongation_factor"": 2.05}"
+1953188,604,214,Ocros,ANC,,1779635,ocros,PE-ANC-Ocros,,"{""area_sr"": 0.15964, ""area_km2"": 1933, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 44, ""side_estim_deg"": 0.3996, ""elongation_factor"": 1.99}"
+1953189,604,215,Pallasca,ANC,,1779654,pallasca,PE-ANC-Pallasca,,"{""area_sr"": 0.16965, ""area_km2"": 2067, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 45.5, ""side_estim_deg"": 0.4119, ""elongation_factor"": 2.22}"
+1953190,604,216,Pomabamba,ANC,,1779643,pomabamba,PE-ANC-Pomabamba,,"{""area_sr"": 0.0757, ""area_km2"": 921, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 30.4, ""side_estim_deg"": 0.2751, ""elongation_factor"": 1.96}"
+1953191,604,217,Recuay,ANC,,1779720,recuay,PE-ANC-Recuay,,"{""area_sr"": 0.19179, ""area_km2"": 2326, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 48.2, ""side_estim_deg"": 0.4379, ""elongation_factor"": 2.07}"
+1953192,604,218,Santa,ANC,,1779734,santa,PE-ANC-Santa,,"{""area_sr"": 0.32683, ""area_km2"": 3975, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 63, ""side_estim_deg"": 0.5717, ""elongation_factor"": 2.01}"
+1953193,604,219,Sihuas,ANC,,1779714,sihuas,PE-ANC-Sihuas,,"{""area_sr"": 0.11954, ""area_km2"": 1456, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 38.2, ""side_estim_deg"": 0.3457, ""elongation_factor"": 1.68}"
+1953194,604,220,Yungay,ANC,,1798739,yungay,PE-ANC-Yungay,,"{""area_sr"": 0.11212, ""area_km2"": 1363, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 36.9, ""side_estim_deg"": 0.3349, ""elongation_factor"": 3.05}"

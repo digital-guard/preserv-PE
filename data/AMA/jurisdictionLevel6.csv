@@ -1,8 +1,8 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1973463,604,102,Bagua,AMA,,1366082,bagua,PE-AMA-Bagua,,
-1973464,604,103,Bongará,AMA,,1342814,bongara,PE-AMA-Bongara,,
-1973468,604,101,Chachapoyas,AMA,,997406,chachapoyas,PE-AMA-Chachapoyas,,
-1973469,604,104,Condorcanqui,AMA,,1288434,condorcanqui,PE-AMA-Condorcanqui,,
-1973470,604,105,Luya,AMA,,268277,luya,PE-AMA-Luya,,
-1973471,604,106,"Rodríguez de Mendoza",AMA,,1366038,rodriguez.mendoza,PE-AMA-RodriguezMendoza,,
-1973472,604,107,Utcubamba,AMA,,941183,utcubamba,PE-AMA-Utcubamba,,
+1973463,604,102,Bagua,AMA,,1366082,bagua,PE-AMA-Bagua,,"{""area_sr"": 0.4663, ""area_km2"": 5718, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 75.6, ""side_estim_deg"": 0.6829, ""elongation_factor"": 2.18}"
+1973464,604,103,Bongará,AMA,,1342814,bongara,PE-AMA-Bongara,,"{""area_sr"": 0.23139, ""area_km2"": 2835, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 53.2, ""side_estim_deg"": 0.481, ""elongation_factor"": 2.32}"
+1973468,604,101,Chachapoyas,AMA,,997406,chachapoyas,PE-AMA-Chachapoyas,,"{""area_sr"": 0.24321, ""area_km2"": 2975, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 54.5, ""side_estim_deg"": 0.4932, ""elongation_factor"": 2.84}"
+1973469,604,104,Condorcanqui,AMA,,1288434,condorcanqui,PE-AMA-Condorcanqui,,"{""area_sr"": 1.45608, ""area_km2"": 17876, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 133.7, ""side_estim_deg"": 1.2067, ""elongation_factor"": 2.25}"
+1973470,604,105,Luya,AMA,,268277,luya,PE-AMA-Luya,,"{""area_sr"": 0.26458, ""area_km2"": 3238, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 56.9, ""side_estim_deg"": 0.5144, ""elongation_factor"": 1.79}"
+1973471,604,106,"Rodríguez de Mendoza",AMA,,1366038,rodriguez.mendoza,PE-AMA-RodriguezMendoza,,"{""area_sr"": 0.21135, ""area_km2"": 2586, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 50.9, ""side_estim_deg"": 0.4597, ""elongation_factor"": 2.11}"
+1973472,604,107,Utcubamba,AMA,,941183,utcubamba,PE-AMA-Utcubamba,,"{""area_sr"": 0.32521, ""area_km2"": 3983, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 63.1, ""side_estim_deg"": 0.5703, ""elongation_factor"": 2.13}"

@@ -1,9 +1,9 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1986156,604,2002,Ayabaca,PIU,,1367672,ayabaca,PE-PIU-Ayabaca,,
-1986158,604,2003,Huancabamba,PIU,,1422619,huancabamba,PE-PIU-Huancabamba,,
-1986159,604,2004,Morropón,PIU,,384980,morropon,PE-PIU-Morropon,,
-1986160,604,2005,Paita,PIU,,2084618,paita,PE-PIU-Paita,,
-1986161,604,2001,Piura,PIU,,676572,piura,PE-PIU-Piura,,
-1986162,604,2008,Sechura,PIU,,2287233,sechura,PE-PIU-Sechura,,
-1986163,604,2006,Sullana,PIU,,612923,sullana,PE-PIU-Sullana,,
-1986164,604,2007,Talara,PIU,,2287241,talara,PE-PIU-Talara,,
+1986156,604,2002,Ayabaca,PIU,,1367672,ayabaca,PE-PIU-Ayabaca,,"{""area_sr"": 0.42277, ""area_km2"": 5187, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 72, ""side_estim_deg"": 0.6502, ""elongation_factor"": 2.02}"
+1986158,604,2003,Huancabamba,PIU,,1422619,huancabamba,PE-PIU-Huancabamba,,"{""area_sr"": 0.34839, ""area_km2"": 4270, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 65.3, ""side_estim_deg"": 0.5902, ""elongation_factor"": 2.69}"
+1986159,604,2004,Morropón,PIU,,384980,morropon,PE-PIU-Morropon,,"{""area_sr"": 0.31139, ""area_km2"": 3817, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 61.8, ""side_estim_deg"": 0.558, ""elongation_factor"": 2.05}"
+1986160,604,2005,Paita,PIU,,2084618,paita,PE-PIU-Paita,,"{""area_sr"": 0.13823, ""area_km2"": 1695, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 41.2, ""side_estim_deg"": 0.3718, ""elongation_factor"": 2.07}"
+1986161,604,2001,Piura,PIU,,676572,piura,PE-PIU-Piura,,"{""area_sr"": 0.49935, ""area_km2"": 6122, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 78.2, ""side_estim_deg"": 0.7066, ""elongation_factor"": 2.51}"
+1986162,604,2008,Sechura,PIU,,2287233,sechura,PE-PIU-Sechura,,"{""area_sr"": 0.52522, ""area_km2"": 6432, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 80.2, ""side_estim_deg"": 0.7247, ""elongation_factor"": 1.78}"
+1986163,604,2006,Sullana,PIU,,612923,sullana,PE-PIU-Sullana,,"{""area_sr"": 0.434, ""area_km2"": 5325, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 73, ""side_estim_deg"": 0.6588, ""elongation_factor"": 2.64}"
+1986164,604,2007,Talara,PIU,,2287241,talara,PE-PIU-Talara,,"{""area_sr"": 0.23858, ""area_km2"": 2928, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 54.1, ""side_estim_deg"": 0.4884, ""elongation_factor"": 1.53}"

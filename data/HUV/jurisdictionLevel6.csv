@@ -1,8 +1,8 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1933552,604,902,Acobamba,HUV,,1948039,acobamba,PE-HUV-Acobamba,,
-1933553,604,903,Angaraes,HUV,,2084862,angaraes,PE-HUV-Angaraes,,
-1933554,604,904,Castrovirreyna,HUV,,1944312,castrovirreyna,PE-HUV-Castrovirreyna,,
-1933555,604,905,Churcampa,HUV,,639598,churcampa,PE-HUV-Churcampa,,
-1933556,604,901,Huancavelica,HUV,,2088859,huancavelica,PE-HUV-Huancavelica,,
-1933557,604,906,Huaytará,HUV,,629736,huaytara,PE-HUV-Huaytara,,
-1933558,604,907,Tayacaja,HUV,,1948195,tayacaja,PE-HUV-Tayacaja,,
+1933552,604,902,Acobamba,HUV,,1948039,acobamba,PE-HUV-Acobamba,,"{""area_sr"": 0.07717, ""area_km2"": 927, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 30.4, ""side_estim_deg"": 0.2778, ""elongation_factor"": 2.27}"
+1933553,604,903,Angaraes,HUV,,2084862,angaraes,PE-HUV-Angaraes,,"{""area_sr"": 0.16186, ""area_km2"": 1942, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 44.1, ""side_estim_deg"": 0.4023, ""elongation_factor"": 2.3}"
+1933554,604,904,Castrovirreyna,HUV,,1944312,castrovirreyna,PE-HUV-Castrovirreyna,,"{""area_sr"": 0.32979, ""area_km2"": 3956, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 62.9, ""side_estim_deg"": 0.5743, ""elongation_factor"": 2.06}"
+1933555,604,905,Churcampa,HUV,,639598,churcampa,PE-HUV-Churcampa,,"{""area_sr"": 0.10029, ""area_km2"": 1205, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 34.7, ""side_estim_deg"": 0.3167, ""elongation_factor"": 2.02}"
+1933556,604,901,Huancavelica,HUV,,2088859,huancavelica,PE-HUV-Huancavelica,,"{""area_sr"": 0.34932, ""area_km2"": 4197, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 64.8, ""side_estim_deg"": 0.591, ""elongation_factor"": 2.47}"
+1933557,604,906,Huaytará,HUV,,629736,huaytara,PE-HUV-Huaytara,,"{""area_sr"": 0.54051, ""area_km2"": 6470, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 80.4, ""side_estim_deg"": 0.7352, ""elongation_factor"": 1.93}"
+1933558,604,907,Tayacaja,HUV,,1948195,tayacaja,PE-HUV-Tayacaja,,"{""area_sr"": 0.28095, ""area_km2"": 3382, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 58.2, ""side_estim_deg"": 0.53, ""elongation_factor"": 1.89}"

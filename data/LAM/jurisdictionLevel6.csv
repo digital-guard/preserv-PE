@@ -1,4 +1,4 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1969723,604,1401,Chiclayo,LAM,,546559,chiclayo,PE-LAM-Chiclayo,,
-1969724,604,1402,Ferreñafe,LAM,,1948067,ferrenafe,PE-LAM-Ferrenafe,,
-1969725,604,1403,Lambayeque,LAM,,632826,lambayeque,PE-LAM-Lambayeque,,
+1969723,604,1401,Chiclayo,LAM,,546559,chiclayo,PE-LAM-Chiclayo,,"{""area_sr"": 0.27224, ""area_km2"": 3328, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 57.7, ""side_estim_deg"": 0.5218, ""elongation_factor"": 2.02}"
+1969724,604,1402,Ferreñafe,LAM,,1948067,ferrenafe,PE-LAM-Ferrenafe,,"{""area_sr"": 0.12872, ""area_km2"": 1575, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 39.7, ""side_estim_deg"": 0.3588, ""elongation_factor"": 3.33}"
+1969725,604,1403,Lambayeque,LAM,,632826,lambayeque,PE-LAM-Lambayeque,,"{""area_sr"": 0.76394, ""area_km2"": 9350, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 96.7, ""side_estim_deg"": 0.874, ""elongation_factor"": 1.84}"
