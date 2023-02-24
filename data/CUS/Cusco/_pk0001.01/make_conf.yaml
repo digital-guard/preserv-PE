@@ -22,7 +22,7 @@ layers:
     file: 1
     sql_select: ['gid', 'usuario', 'geom']
     orig_filename: Ubicaciones/Inscripciones
-    join_column: 'usuario'
+    join_id: 'usuario'
 
   address:
     subtype: cmpl
@@ -31,5 +31,5 @@ layers:
     sql_select: ['"INSCRINRO"', '"PROVINCIA"', '"DISTRITO"', '"TIPURB"', '"URB"', '"TIPCAL"', '"CALLE" AS via_name', '"PRENRO" AS house_number']
     orig_filename: Padron de Direcciones Cusco
     codec: XLSX
-    join_column: 'INSCRINRO'
+    join_id: 'INSCRINRO'
     # JOIN INSCRINRO == usuario
