@@ -28,7 +28,7 @@ layers:
     subtype: cmpl
     method: csv2sql
     file: 2
-    sql_select: ['"INSCRINRO"', '"PROVINCIA"', '"DISTRITO"', '"TIPURB"', '"URB"', '"TIPCAL"', '"CALLE" AS via_name', '"PRENRO" AS house_number']
+    sql_select: ['"INSCRINRO"', '"PROVINCIA"', '"DISTRITO"', '"TIPURB"', '"URB"', '"TIPCAL"', '"CALLE" AS via', '"PRENRO" AS house_number']
     orig_filename: Padron de Direcciones Cusco
     codec: XLSX
     join_id: 'INSCRINRO'
