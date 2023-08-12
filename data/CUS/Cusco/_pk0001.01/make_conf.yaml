@@ -33,3 +33,21 @@ layers:
     codec: XLSX
     join_id: 'INSCRINRO'
     # JOIN INSCRINRO == usuario
+    standardized_fields:
+     -
+      name: CALLE
+      standard: via
+     -
+      name: PRENRO
+      standard: hnum
+    other_fields:
+     -
+      name: INSCRINRO
+     -
+      name: PROVINCIA
+     -
+      name: DISTRITO
+     -
+      name: TIPURB
+     -
+      name: URB
