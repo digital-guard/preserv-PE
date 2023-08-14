@@ -29,7 +29,7 @@ Los archivos contienen "capas de datos" temáticas. Los metadatos también descr
 
 Nombre del archivo: `Ubicaciones/Inscripciones`<br/>*Descarga* e integridad: [43484294f9190a3a050e097e0c106f8da16169a3e1dff9d00ea04aae6e9cbe1a.zip](http://dl.digital-guard.org/43484294f9190a3a050e097e0c106f8da16169a3e1dff9d00ea04aae6e9cbe1a.zip)<br/>Descripción: Inscripciones<br/>Tamaño del archivo: 323770562 bytes (308.77 <abbr title="mebibyte">MiB</abbr>)<br/>Formato: shp<br/>SRID: 32719
 
-<br/>Complementado por [address](#-address) a través de `usuario` y ``
+<br/>Complementado por [address](#-address) a través de `usuario` y `INSCRINRO`
 
 ## <img src="https://raw.githubusercontent.com/digital-guard/preserv/main/docs/assets/layerIcon-address.png" alt="address" width="20"/> address
 
@@ -47,7 +47,7 @@ Nombre del archivo: `Padron de Direcciones Cusco`<br/>*Descarga* e integridad: [
 * `TIPURB`
 * `URB`
 
-Complementos [](#-) a través de `INSCRINRO` y ``
+Complementos [geoaddress](#-geoaddress) a través de `INSCRINRO` y `usuario`
 
 </section>
 <section>
