@@ -1,4 +1,4 @@
-local_id,scope_label,shortName,vat_id,legalName,wikidata_id,url
-1,PE-CUS-Cusco,SEDACUSCO,ruc:20136353315,EPS SEDACUSCO S.A.,-1,https://www.sedacusco.com/
-2,PE,OSM,wd:P2657:365969219933-54,OpenStreetMap Foundation,6542248,https://www.osmfoundation.org/
-3,PE-AMA-Chachapoyas,EMUSAP,ruc:20223938478,EMUSAP,-3,https://www.emusap.com.pe/index
+local_id,scope_label,vat_id,legalName,wikidata_id,url
+1,PE-CUS-Cusco,ruc:20136353315,EPS SEDACUSCO S.A.,-1,https://www.sedacusco.com/
+2,PE,wd:P2657:365969219933-54,OpenStreetMap Foundation,6542248,https://www.osmfoundation.org/
+3,PE-AMA-Chachapoyas,ruc:20223938478,EMUSAP,-3,https://www.emusap.com.pe/index
