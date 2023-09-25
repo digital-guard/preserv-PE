@@ -35,7 +35,8 @@ Nombre del archivo: `Ubicaciones/Inscripciones`<br/>*Descarga* e integridad: [43
 #### Filtrado de resultados y su publicación
 3815822 bytes (3.64 <abbr title="mebibyte">MiB</abbr>)<br/>67317 pontos<br/>densidad media: 1470.81 pontos/km²<br/>GeoJSONs publicados em [https://git.digital-guard.org/preservCutGeo-PE2021/tree/main/data/CUS/Cusco/_pk0001.01/geoaddress](https://git.digital-guard.org/preservCutGeo-PE2021/tree/main/data/CUS/Cusco/_pk0001.01/geoaddress)
 
-## <img src="https://raw.githubusercontent.com/digital-guard/preserv/main/docs/assets/layerIcon-address.png" alt="address" width="20"/> address
+#### Visualización
+[https://viz.addressforall.org/PE-CUS-Cusco/_pk0001.01/geoaddress](https://viz.addressforall.org/PE-CUS-Cusco/_pk0001.01/geoaddress)## <img src="https://raw.githubusercontent.com/digital-guard/preserv/main/docs/assets/layerIcon-address.png" alt="address" width="20"/> address
 
 Nombre del archivo: `Padron de Direcciones Cusco`<br/>*Descarga* e integridad: [9b76c8f77f5e08b9bae2d839540a6d02d640c62bf422efd3a9f629fdd247b97e.zip](http://dl.digital-guard.org/9b76c8f77f5e08b9bae2d839540a6d02d640c62bf422efd3a9f629fdd247b97e.zip)<br/>Descripción: Direcciones<br/>Tamaño del archivo: 4348258 bytes (4.15 <abbr title="mebibyte">MiB</abbr>)<br/>Formato: xlsx<br/>SRID: 32719
 
