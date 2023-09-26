@@ -1,6 +1,6 @@
 <aside>
 <table align="right" style="padding: 1em">
-<tr><td>Paquete <a target="_git" title="Enlace canónico a git para este paquete." href="https://git.digital-guard.org/preserv-PE/blob/main/data/CUS/Cusco/_pk0001.01"><big><b>pk0001.01</b></big></a> de <small><a target="_afacodes" title="Jurisdicción" href="https://afa.codes/PE-CUS-Cusco">PE-CUS-Cusco</a></small>
+<tr><td>Paquete <big><b>pk0001.01</b></big> de <small><a target="_afacodes" title="Jurisdicción" href="https://afa.codes/PE-CUS-Cusco">PE-CUS-Cusco</a></small>
 </td></tr>
 <tr><td>
 Donante: <a rel="external" target="_doador" href="https://www.sedacusco.com/">EPS SEDACUSCO S.A.</a>
