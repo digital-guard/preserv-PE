@@ -5,7 +5,7 @@ rm -rf /tmp/sandbox/_pk60400000101_001 || true
 mkdir -m 777 -p /tmp/sandbox
 mkdir -m 777 -p /tmp/sandbox/_pk60400000101_001
 mkdir -p /tmp/pg_io
-wget -P /var/www/dl.digital-guard.org http://dl.digital-guard.org/9b76c8f77f5e08b9bae2d839540a6d02d640c62bf422efd3a9f629fdd247b97e.zip
+wget -P /var/www/dl.digital-guard.org https://dl.digital-guard.org/9b76c8f77f5e08b9bae2d839540a6d02d640c62bf422efd3a9f629fdd247b97e.zip
 sudo chown postgres:www-data /var/www/dl.digital-guard.org/9b76c8f77f5e08b9bae2d839540a6d02d640c62bf422efd3a9f629fdd247b97e.zip && sudo chmod 664 /var/www/dl.digital-guard.org/9b76c8f77f5e08b9bae2d839540a6d02d640c62bf422efd3a9f629fdd247b97e.zip
 psql postgres://postgres@localhost/ingest1 -c "DROP FOREIGN TABLE IF EXISTS pk60400000101201_p2_address CASCADE"
 cd /tmp/sandbox/_pk60400000101_001; 7z  x -y /var/www/dl.digital-guard.org/9b76c8f77f5e08b9bae2d839540a6d02d640c62bf422efd3a9f629fdd247b97e.zip "*Padron de Direcciones Cusco*" ; chmod -R a+rwx . > /dev/null
@@ -28,7 +28,7 @@ rm -rf /tmp/sandbox/_pk60400000101_001 || true
 mkdir -m 777 -p /tmp/sandbox
 mkdir -m 777 -p /tmp/sandbox/_pk60400000101_001
 mkdir -p /tmp/pg_io
-wget -P /var/www/dl.digital-guard.org http://dl.digital-guard.org/43484294f9190a3a050e097e0c106f8da16169a3e1dff9d00ea04aae6e9cbe1a.zip
+wget -P /var/www/dl.digital-guard.org https://dl.digital-guard.org/43484294f9190a3a050e097e0c106f8da16169a3e1dff9d00ea04aae6e9cbe1a.zip
 sudo chown postgres:www-data /var/www/dl.digital-guard.org/43484294f9190a3a050e097e0c106f8da16169a3e1dff9d00ea04aae6e9cbe1a.zip && sudo chmod 664 /var/www/dl.digital-guard.org/43484294f9190a3a050e097e0c106f8da16169a3e1dff9d00ea04aae6e9cbe1a.zip
 psql postgres://postgres@localhost/ingest1 -c "DROP  TABLE IF EXISTS pk60400000101101_p1_geoaddress CASCADE"
 cd /tmp/sandbox/_pk60400000101_001; 7z  x -y /var/www/dl.digital-guard.org/43484294f9190a3a050e097e0c106f8da16169a3e1dff9d00ea04aae6e9cbe1a.zip "*Ubicaciones/Inscripciones*" ; chmod -R a+rwx . > /dev/null

@@ -28,7 +28,7 @@ Los archivos contienen "capas de datos" temáticas. Los metadatos también descr
 
 ## <img src="https://raw.githubusercontent.com/digital-guard/preserv/main/docs/assets/layerIcon-geoaddress.png" alt="geoaddress" width="20"/> geoaddress
 
-Nombre del archivo: `Ubicaciones/Inscripciones`<br/>*Descarga* e integridad: [43484294f9190a3a050e097e0c106f8da16169a3e1dff9d00ea04aae6e9cbe1a.zip](http://dl.digital-guard.org/43484294f9190a3a050e097e0c106f8da16169a3e1dff9d00ea04aae6e9cbe1a.zip)<br/>Descripción: Inscripciones<br/>Tamaño del archivo: 323770562 bytes (308.77 <abbr title="mebibyte">MiB</abbr>)<br/>Formato: shp<br/>SRID: 32719
+Nombre del archivo: `Ubicaciones/Inscripciones`<br/>*Descarga* e integridad: [43484294f9190a3a050e097e0c106f8da16169a3e1dff9d00ea04aae6e9cbe1a.zip](https://dl.digital-guard.org/43484294f9190a3a050e097e0c106f8da16169a3e1dff9d00ea04aae6e9cbe1a.zip)<br/>Descripción: Inscripciones<br/>Tamaño del archivo: 323770562 bytes (308.77 <abbr title="mebibyte">MiB</abbr>)<br/>Formato: shp<br/>SRID: 32719
 
 <br/>Complementado por [address](#-address) a través de `usuario` y `INSCRINRO`
 
@@ -39,7 +39,7 @@ Nombre del archivo: `Ubicaciones/Inscripciones`<br/>*Descarga* e integridad: [43
 [https://viz.addressforall.org/PE-CUS-Cusco/_pk0001.01/geoaddress](https://viz.addressforall.org/PE-CUS-Cusco/_pk0001.01/geoaddress)
 ## <img src="https://raw.githubusercontent.com/digital-guard/preserv/main/docs/assets/layerIcon-address.png" alt="address" width="20"/> address
 
-Nombre del archivo: `Padron de Direcciones Cusco`<br/>*Descarga* e integridad: [9b76c8f77f5e08b9bae2d839540a6d02d640c62bf422efd3a9f629fdd247b97e.zip](http://dl.digital-guard.org/9b76c8f77f5e08b9bae2d839540a6d02d640c62bf422efd3a9f629fdd247b97e.zip)<br/>Descripción: Direcciones<br/>Tamaño del archivo: 4348258 bytes (4.15 <abbr title="mebibyte">MiB</abbr>)<br/>Formato: xlsx<br/>SRID: 32719
+Nombre del archivo: `Padron de Direcciones Cusco`<br/>*Descarga* e integridad: [9b76c8f77f5e08b9bae2d839540a6d02d640c62bf422efd3a9f629fdd247b97e.zip](https://dl.digital-guard.org/9b76c8f77f5e08b9bae2d839540a6d02d640c62bf422efd3a9f629fdd247b97e.zip)<br/>Descripción: Direcciones<br/>Tamaño del archivo: 4348258 bytes (4.15 <abbr title="mebibyte">MiB</abbr>)<br/>Formato: xlsx<br/>SRID: 32719
 
 #### Datos relevantes
 * `CALLE` (via)
