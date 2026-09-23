@@ -1,0 +1,97 @@
+pack_id: 4.1
+pkversion: 001
+schemaId_input:    ref027a
+schemaId_template: ref027a
+codec:descr_encode: srid=32718
+
+files:
+- file: 8c3323a12e26abaeea944746df129c72e3d515cabed14cc5103164748c6567a5.zip
+  name: Shapefiles Miraflores
+  p: 1
+  size: 3884278
+
+license_evidences:
+  definition: [CC-BY-4.0, by, 'https://creativecommons.org/licenses/by/4.0/']
+  file: 402e9ccbbde1dbcdf89eff4e460f5ce6b57d01550757c747d00637cdf6120b98.pdf
+
+layers:
+
+  geoaddress:
+    subtype: full
+    method: shp2sql
+    file: 1
+    orig_filename: ADDRESS FOR ALL/numeros_puerta
+    # geometria original: segmentos de linha (~2 m) junto à porta; usa-se o centróide.
+    # via obtida por join cod_via com vias_mir.
+    sql_view: SELECT gid, cod_manzan, cod_lote, cod_via, trim(nro_puerta || ' ' || coalesce(letra_puer,'')) AS hnum, tipo, estado, ST_Centroid(geom) AS geom FROM $(tabname)
+    standardized_fields:
+     -
+      name: nro_puerta letra_puer
+      standard: hnum
+    other_fields:
+     -
+      name: cod_manzan
+     -
+      name: cod_lote
+     -
+      name: cod_via
+     -
+      name: tipo
+     -
+      name: estado
+
+  via:
+    subtype: full
+    method: shp2sql
+    file: 1
+    orig_filename: ADDRESS FOR ALL/vias_mir
+    sql_view: SELECT gid, cod_via::int AS cod_via, tipo, nomenclatu AS via, clasificac, geom FROM $(tabname)
+    standardized_fields:
+     -
+      name: nomenclatu
+      standard: via
+    other_fields:
+     -
+      name: cod_via
+     -
+      name: tipo
+     -
+      name: clasificac
+
+  parcel:
+    subtype: full
+    method: shp2sql
+    file: 1
+    orig_filename: ADDRESS FOR ALL/lotes_mir
+    sql_select: ['gid', 'cod_catast AS ref', 'sector', 'cod_manzan', 'cod_lote', 'tipo_lote', 'cuc1', 'geom']
+    standardized_fields:
+     -
+      name: cod_catast
+      standard: ref
+    other_fields:
+     -
+      name: sector
+     -
+      name: cod_manzan
+     -
+      name: cod_lote
+     -
+      name: tipo_lote
+     -
+      name: cuc1
+
+  block:
+    subtype: full
+    method: shp2sql
+    file: 1
+    orig_filename: ADDRESS FOR ALL/manzanas_mir
+    sql_select: ['gid', 'cod_manzan AS ref', 'mz_urbana', 'geom']
+    standardized_fields:
+     -
+      name: cod_manzan
+      standard: ref
+    other_fields:
+     -
+      name: mz_urbana
+
+comments: Também possui area_recreacional_mir (praças/parques) e limite_distrital.
